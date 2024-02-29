@@ -20,6 +20,7 @@ public class Card : MonoBehaviour
     public TextMeshProUGUI costText;
     public TextMeshProUGUI damageText;
     public Image spriteImage;
+    
         
 
     // Start is called before the first frame update
