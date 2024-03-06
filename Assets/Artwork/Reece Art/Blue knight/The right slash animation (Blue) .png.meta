@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 0089b107c5bf04692a1ca87d449d5286
+guid: 4a3dcee268c9247819667d307e7bba36
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -162,13 +162,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: knight slash animation (Blue)_0
+      name: The right slash animation (Blue) _0
       rect:
         serializedVersion: 2
         x: 0
-        y: 240
-        width: 80
-        height: 80
+        y: 126
+        width: 42
+        height: 42
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -176,20 +176,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5d1b957ead0184665bbf67e31d03480e
-      internalID: -425521629
+      spriteID: 092bb6e60c53c4c91949006dfe19f60d
+      internalID: -418173022
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight slash animation (Blue)_1
+      name: The right slash animation (Blue) _1
       rect:
         serializedVersion: 2
-        x: 80
-        y: 240
-        width: 80
-        height: 80
+        x: 42
+        y: 126
+        width: 42
+        height: 42
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -197,20 +197,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ba52f181e9ec7495da29beeecbaadbc0
-      internalID: -1604318164
+      spriteID: 2702abb0c61aa429399f7835cfc70dd6
+      internalID: 1689182117
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight slash animation (Blue)_2
+      name: The right slash animation (Blue) _2
       rect:
         serializedVersion: 2
-        x: 160
-        y: 240
-        width: 80
-        height: 80
+        x: 84
+        y: 126
+        width: 42
+        height: 42
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -218,83 +218,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e1e9b4763dc70495eacf7cc4fba85002
-      internalID: -439311028
+      spriteID: c6edde3f229c141c0a91e06bc0f3f592
+      internalID: 524408098
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight slash animation (Blue)_3
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 160
-        width: 80
-        height: 80
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 014aca68c7b3b4c9a93cb8ed412a72cc
-      internalID: -1703847174
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: knight slash animation (Blue)_4
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 160
-        width: 80
-        height: 80
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 225585e21e7224054be05766d1a70f9b
-      internalID: -1179106254
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: knight slash animation (Blue)_5
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 160
-        width: 80
-        height: 80
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6eed44c0e151547039ccfd456a119a6e
-      internalID: -1745007327
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: knight slash animation (Blue)_6
+      name: The right slash animation (Blue) _3
       rect:
         serializedVersion: 2
         x: 0
-        y: 80
-        width: 80
-        height: 80
+        y: 84
+        width: 42
+        height: 42
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -302,20 +239,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b3e6f7bf182284618912dc193004c2d8
-      internalID: 1519251557
+      spriteID: 1a189c101b74a48f3b98450d5380c08a
+      internalID: 693149414
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight slash animation (Blue)_7
+      name: The right slash animation (Blue) _4
       rect:
         serializedVersion: 2
-        x: 80
-        y: 80
-        width: 80
-        height: 80
+        x: 42
+        y: 84
+        width: 42
+        height: 42
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -323,20 +260,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 54e6188b3111c462b9768c08389447f2
-      internalID: -1870036290
+      spriteID: 07a99fa0bc33a4100b1571f7d647eb83
+      internalID: 274174510
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight slash animation (Blue)_8
+      name: The right slash animation (Blue) _5
       rect:
         serializedVersion: 2
-        x: 160
-        y: 80
-        width: 80
-        height: 80
+        x: 84
+        y: 84
+        width: 42
+        height: 42
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -344,20 +281,83 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b5210cb4af73444ccb21b8554c53a99a
-      internalID: 497305021
+      spriteID: f40494eb92c7348799d2813171e6b8b8
+      internalID: -995271320
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight slash animation (Blue)_9
+      name: The right slash animation (Blue) _6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 42
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff88caf05903b4dc480e08685848a105
+      internalID: 2095838375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The right slash animation (Blue) _7
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 42
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7929bf3878f7543219a97a5883f01b5a
+      internalID: 1066042353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The right slash animation (Blue) _8
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 42
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327ca60db2cf84c998e4e3cbddacaaad
+      internalID: -339645652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The right slash animation (Blue) _9
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 80
-        height: 80
+        width: 42
+        height: 42
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -365,8 +365,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8eca0fb0ce93e4f9ca5fe2e756998fd6
-      internalID: 2132123517
+      spriteID: dbbd0f7e326904a38a5fabf426d902d3
+      internalID: 743183600
       vertices: []
       indices: 
       edges: []
@@ -382,16 +382,16 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      knight slash animation (Blue)_0: -425521629
-      knight slash animation (Blue)_1: -1604318164
-      knight slash animation (Blue)_2: -439311028
-      knight slash animation (Blue)_3: -1703847174
-      knight slash animation (Blue)_4: -1179106254
-      knight slash animation (Blue)_5: -1745007327
-      knight slash animation (Blue)_6: 1519251557
-      knight slash animation (Blue)_7: -1870036290
-      knight slash animation (Blue)_8: 497305021
-      knight slash animation (Blue)_9: 2132123517
+      The right slash animation (Blue) _0: -418173022
+      The right slash animation (Blue) _1: 1689182117
+      The right slash animation (Blue) _2: 524408098
+      The right slash animation (Blue) _3: 693149414
+      The right slash animation (Blue) _4: 274174510
+      The right slash animation (Blue) _5: -995271320
+      The right slash animation (Blue) _6: 2095838375
+      The right slash animation (Blue) _7: 1066042353
+      The right slash animation (Blue) _8: -339645652
+      The right slash animation (Blue) _9: 743183600
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

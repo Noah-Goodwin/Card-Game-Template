@@ -8,6 +8,7 @@ TagManager:
   - R_Knight
   - B_Tower
   - R_Tower
+  - test
   layers:
   - Default
   - TransparentFX
