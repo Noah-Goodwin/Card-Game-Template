@@ -1,17 +1,15 @@
-using System;
 using System.Collections;
 using System.Collections.Generic;
-using Unity.VisualScripting;
 using UnityEngine;
 
-public class B_Knight : MonoBehaviour
+public class Red_Mush : MonoBehaviour
 {
     Animator m_Animator;
     private float walkspeed;
     // Start is called before the first frame update
     void Start()
     {
-        walkspeed = -0.30f;
+        walkspeed = 0.30f;
         m_Animator = gameObject.GetComponent<Animator>();
     }
 
@@ -27,21 +25,15 @@ public class B_Knight : MonoBehaviour
         if(other.CompareTag("test"))
         {
             walkspeed = 0;
-            m_Animator.SetBool("interact", true);
+            m_Animator.SetBool("MushA", true);
         }
-        if(other.CompareTag("Red_Mush"))
+        else m_Animator.SetBool("MushA", false);
+
+        if (other.CompareTag("B_Knight"))
         {
             walkspeed = 0;
-            m_Animator.SetBool("Death", true);
+            m_Animator.SetBool("MushA", true);
         }
-    }
-    void OnCollisionEnter2D(Collision2D other)
-    {
-        
-       // if(other.CompareTag("Red_Mush"))
-        {
-            walkspeed = 0;
-            m_Animator.SetBool("Death", true);
-        }
+        else m_Animator.SetBool("MushA", false);
     }
 }
