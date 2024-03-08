@@ -9,6 +9,7 @@ TagManager:
   - B_Tower
   - R_Tower
   - test
+  - B_Zombie
   layers:
   - Default
   - TransparentFX
