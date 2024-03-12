@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 0d7602c2cc8d444f6bdd04615ec4a005
+guid: 07c0a03d4a89c4fba9c0edc167c15f54
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -72,7 +72,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -162,13 +162,55 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: knight 3 improved slash animation_0
+      name: Shroom blue death_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4357090521ea043c78464ecde612a3df
+      internalID: -998833525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shroom blue death_1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 150
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8fc2e11268a47a8b08252296e55e85
+      internalID: -271484366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shroom blue death_2
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 80
-        height: 80
+        width: 150
+        height: 150
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -176,20 +218,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 85bf5ded80e89420eabb3b01dcf6d417
-      internalID: 1930976331
+      spriteID: fea66c2bc3df740c89c845cbb809773d
+      internalID: 1145928836
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight 3 improved slash animation_1
+      name: Shroom blue death_3
       rect:
         serializedVersion: 2
-        x: 80
+        x: 150
         y: 0
-        width: 80
-        height: 80
+        width: 150
+        height: 150
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -197,176 +239,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0f128121bb85642ccb771f576ccd98fa
-      internalID: -450821423
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: knight 3 improved slash animation_2
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 0
-        width: 80
-        height: 80
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d22debcb496584bb9abfbe8dc8d1c5a6
-      internalID: 1146751196
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: knight 3 improved slash animation_3
-      rect:
-        serializedVersion: 2
-        x: 240
-        y: 0
-        width: 80
-        height: 80
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6f464fee0ed564be28ad827bf84cfdeb
-      internalID: -704602309
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: knight 3 improved slash animation_4
-      rect:
-        serializedVersion: 2
-        x: 320
-        y: 0
-        width: 80
-        height: 80
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e5a342962aa3245ed962f714308e8bf5
-      internalID: 3058294
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: knight 3 improved slash animation_5
-      rect:
-        serializedVersion: 2
-        x: 400
-        y: 0
-        width: 80
-        height: 80
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7ad7c0b3908ec48ae83bbf03391631e0
-      internalID: 1606396263
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: knight 3 improved slash animation_6
-      rect:
-        serializedVersion: 2
-        x: 480
-        y: 0
-        width: 80
-        height: 80
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f480b35484a8f4f519644e679aa06bf8
-      internalID: -783511697
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: knight 3 improved slash animation_7
-      rect:
-        serializedVersion: 2
-        x: 560
-        y: 0
-        width: 80
-        height: 80
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 459422f2490d54e47975d6e0f7050dd9
-      internalID: -185140060
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: knight 3 improved slash animation_8
-      rect:
-        serializedVersion: 2
-        x: 640
-        y: 0
-        width: 80
-        height: 80
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 19fd5510ee835402094129b5b0224be5
-      internalID: 2082025808
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: knight 3 improved slash animation_9
-      rect:
-        serializedVersion: 2
-        x: 720
-        y: 0
-        width: 80
-        height: 80
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b3b108a29c0294c3c9ac9a380ad44841
-      internalID: -37542758
+      spriteID: 226b5570352cd41c191c69b686397efe
+      internalID: 1173189788
       vertices: []
       indices: 
       edges: []
@@ -382,16 +256,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      knight 3 improved slash animation_0: 1930976331
-      knight 3 improved slash animation_1: -450821423
-      knight 3 improved slash animation_2: 1146751196
-      knight 3 improved slash animation_3: -704602309
-      knight 3 improved slash animation_4: 3058294
-      knight 3 improved slash animation_5: 1606396263
-      knight 3 improved slash animation_6: -783511697
-      knight 3 improved slash animation_7: -185140060
-      knight 3 improved slash animation_8: 2082025808
-      knight 3 improved slash animation_9: -37542758
+      Shroom blue death_0: -998833525
+      Shroom blue death_1: -271484366
+      Shroom blue death_2: 1145928836
+      Shroom blue death_3: 1173189788
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

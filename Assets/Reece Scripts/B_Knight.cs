@@ -29,19 +29,15 @@ public class B_Knight : MonoBehaviour
             walkspeed = 0;
             m_Animator.SetBool("interact", true);
         }
-        if(other.CompareTag("Red_Mush"))
-        {
-            walkspeed = 0;
-            m_Animator.SetBool("Death", true);
-        }
-    }
-    void OnCollisionEnter2D(Collision2D other)
-    {
         
-       // if(other.CompareTag("Red_Mush"))
-        {
-            walkspeed = 0;
-            m_Animator.SetBool("Death", true);
-        }
+    }
+    void OnCollisionEnter2D(Collision2D col)
+    {
+        Debug.Log("Hit");
+       if(col.gameObject.CompareTag("Red_Mush"))
+       {
+           walkspeed = 0;
+           m_Animator.SetBool("Dead", true);
+       }
     }
 }
