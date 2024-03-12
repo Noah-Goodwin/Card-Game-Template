@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 3ab31ab2f6c134f1c9edd26cd3c9c094
+guid: 16547a520a5724d27b5df07ec4b6fa20
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -162,7 +162,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Zombie (1) (1)_0
+      name: RedZombie_Death_0
       rect:
         serializedVersion: 2
         x: 0
@@ -176,14 +176,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d5432cd67038e4c56ab222b7c4b22ab4
-      internalID: -516821556
+      spriteID: 492316f80f4c24e0faf7afb90aa43cff
+      internalID: -982210577
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Zombie (1) (1)_1
+      name: RedZombie_Death_1
       rect:
         serializedVersion: 2
         x: 32
@@ -197,14 +197,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 559b2b7d57b2f4123a82a8610cce8e9b
-      internalID: -599554869
+      spriteID: e14b8e82c53014490ad40ea90ad19526
+      internalID: 1900630954
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Zombie (1) (1)_2
+      name: RedZombie_Death_2
       rect:
         serializedVersion: 2
         x: 64
@@ -218,14 +218,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1a6966f0450d24963b10ec5c0965272b
-      internalID: 156926478
+      spriteID: fcb0d5f6ca840443087c31222435cb00
+      internalID: 822719301
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Zombie (1) (1)_3
+      name: RedZombie_Death_3
       rect:
         serializedVersion: 2
         x: 96
@@ -239,14 +239,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5744014e5f75547c4abe61b43ff6c602
-      internalID: 1452405283
+      spriteID: e214da2ab3e944cd49f9aa46c004a634
+      internalID: 1649530741
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Zombie (1) (1)_4
+      name: RedZombie_Death_4
       rect:
         serializedVersion: 2
         x: 0
@@ -260,14 +260,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 08dbb16700dee46a6b2457f94f55a778
-      internalID: 919038026
+      spriteID: 3a3e14ce52d9049f0a5d4a0b0911dcd3
+      internalID: -1932075390
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Zombie (1) (1)_5
+      name: RedZombie_Death_5
       rect:
         serializedVersion: 2
         x: 32
@@ -281,14 +281,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b244809689c9d4ad49f2675fe53ab3cd
-      internalID: -1651281267
+      spriteID: 07b4d9ce572cc4c42830ca099216f72f
+      internalID: 1791175054
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Zombie (1) (1)_6
+      name: RedZombie_Death_6
       rect:
         serializedVersion: 2
         x: 64
@@ -302,14 +302,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9db7edebbd2984ab9aa71b1c2a672613
-      internalID: -1112593791
+      spriteID: 65c59961aab01478baff78c734511792
+      internalID: 1227173184
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Zombie (1) (1)_7
+      name: RedZombie_Death_7
       rect:
         serializedVersion: 2
         x: 96
@@ -323,14 +323,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 42c16f4851a4340518d2226fd165ba66
-      internalID: -402074815
+      spriteID: 58b72cff83efd48af842931818ef56ab
+      internalID: 1395392931
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Zombie (1) (1)_8
+      name: RedZombie_Death_8
       rect:
         serializedVersion: 2
         x: 0
@@ -344,14 +344,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e69de817f642349599b4a2727d0f6188
-      internalID: 1033487707
+      spriteID: 3f8c34d054d0d45a7a89dcda4ccd690f
+      internalID: -1935865811
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Zombie (1) (1)_9
+      name: RedZombie_Death_9
       rect:
         serializedVersion: 2
         x: 32
@@ -365,14 +365,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6e2cebc2a991e4b6981ffd9580e55ee6
-      internalID: -1802343999
+      spriteID: 7fbd935b64bcd4a89a3fdc1cb5d79884
+      internalID: 1906169243
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Zombie (1) (1)_10
+      name: RedZombie_Death_10
       rect:
         serializedVersion: 2
         x: 64
@@ -386,8 +386,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d1e74acdf0ba04e43b28344af7879d78
-      internalID: -1599576682
+      spriteID: 1ec138002e9e04fee922a8a340267601
+      internalID: 291038909
       vertices: []
       indices: 
       edges: []
@@ -403,17 +403,17 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Zombie (1) (1)_0: -516821556
-      Zombie (1) (1)_1: -599554869
-      Zombie (1) (1)_10: -1599576682
-      Zombie (1) (1)_2: 156926478
-      Zombie (1) (1)_3: 1452405283
-      Zombie (1) (1)_4: 919038026
-      Zombie (1) (1)_5: -1651281267
-      Zombie (1) (1)_6: -1112593791
-      Zombie (1) (1)_7: -402074815
-      Zombie (1) (1)_8: 1033487707
-      Zombie (1) (1)_9: -1802343999
+      RedZombie_Death_0: -982210577
+      RedZombie_Death_1: 1900630954
+      RedZombie_Death_10: 291038909
+      RedZombie_Death_2: 822719301
+      RedZombie_Death_3: 1649530741
+      RedZombie_Death_4: -1932075390
+      RedZombie_Death_5: 1791175054
+      RedZombie_Death_6: 1227173184
+      RedZombie_Death_7: 1395392931
+      RedZombie_Death_8: -1935865811
+      RedZombie_Death_9: 1906169243
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
