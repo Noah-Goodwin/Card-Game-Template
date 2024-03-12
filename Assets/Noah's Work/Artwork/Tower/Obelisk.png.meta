@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 3ab31ab2f6c134f1c9edd26cd3c9c094
+guid: d444529345f144d098cef594db4124dc
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -72,7 +72,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -162,13 +162,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Zombie (1) (1)_0
+      name: Obelisk_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 96
-        width: 32
-        height: 32
+        y: 0
+        width: 190
+        height: 240
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -176,20 +176,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d5432cd67038e4c56ab222b7c4b22ab4
-      internalID: -516821556
+      spriteID: 70106a4c58135408d97f46ac1dd9f444
+      internalID: 1466460366
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Zombie (1) (1)_1
+      name: Obelisk_1
       rect:
         serializedVersion: 2
-        x: 32
-        y: 96
-        width: 32
-        height: 32
+        x: 190
+        y: 0
+        width: 190
+        height: 240
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -197,20 +197,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 559b2b7d57b2f4123a82a8610cce8e9b
-      internalID: -599554869
+      spriteID: 6f07003ffc1c847cd96a5bd9fb4e3ef7
+      internalID: -1392834593
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Zombie (1) (1)_2
+      name: Obelisk_2
       rect:
         serializedVersion: 2
-        x: 64
-        y: 96
-        width: 32
-        height: 32
+        x: 380
+        y: 0
+        width: 190
+        height: 240
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -218,20 +218,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1a6966f0450d24963b10ec5c0965272b
-      internalID: 156926478
+      spriteID: 7aaa9758bc7e947518c44b90cc29665b
+      internalID: 1192090737
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Zombie (1) (1)_3
+      name: Obelisk_3
       rect:
         serializedVersion: 2
-        x: 96
-        y: 96
-        width: 32
-        height: 32
+        x: 570
+        y: 0
+        width: 190
+        height: 240
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -239,20 +239,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5744014e5f75547c4abe61b43ff6c602
-      internalID: 1452405283
+      spriteID: fa5d305f121d0443faf76a3ba9f38dc5
+      internalID: -1849862037
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Zombie (1) (1)_4
+      name: Obelisk_4
       rect:
         serializedVersion: 2
-        x: 0
-        y: 64
-        width: 32
-        height: 32
+        x: 760
+        y: 0
+        width: 190
+        height: 240
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -260,20 +260,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 08dbb16700dee46a6b2457f94f55a778
-      internalID: 919038026
+      spriteID: 4012348387184415c9d4539786b47d80
+      internalID: 405251624
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Zombie (1) (1)_5
+      name: Obelisk_5
       rect:
         serializedVersion: 2
-        x: 32
-        y: 64
-        width: 32
-        height: 32
+        x: 950
+        y: 0
+        width: 190
+        height: 240
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -281,20 +281,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b244809689c9d4ad49f2675fe53ab3cd
-      internalID: -1651281267
+      spriteID: 1edd2ab67aa5149f389aaf479c9cbc5a
+      internalID: -803874556
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Zombie (1) (1)_6
+      name: Obelisk_6
       rect:
         serializedVersion: 2
-        x: 64
-        y: 64
-        width: 32
-        height: 32
+        x: 1140
+        y: 0
+        width: 190
+        height: 240
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -302,20 +302,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9db7edebbd2984ab9aa71b1c2a672613
-      internalID: -1112593791
+      spriteID: e0618dcfdbf0041479fa98515201ea38
+      internalID: -2064849507
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Zombie (1) (1)_7
+      name: Obelisk_7
       rect:
         serializedVersion: 2
-        x: 96
-        y: 64
-        width: 32
-        height: 32
+        x: 1330
+        y: 0
+        width: 190
+        height: 240
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -323,20 +323,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 42c16f4851a4340518d2226fd165ba66
-      internalID: -402074815
+      spriteID: 1dfbb4979f71644a8b4798ac38223dac
+      internalID: 1682986943
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Zombie (1) (1)_8
+      name: Obelisk_8
       rect:
         serializedVersion: 2
-        x: 0
-        y: 32
-        width: 32
-        height: 32
+        x: 1520
+        y: 0
+        width: 190
+        height: 240
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -344,20 +344,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e69de817f642349599b4a2727d0f6188
-      internalID: 1033487707
+      spriteID: f23bbf948af1247d0b9c937bb6269b3d
+      internalID: 1803519512
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Zombie (1) (1)_9
+      name: Obelisk_9
       rect:
         serializedVersion: 2
-        x: 32
-        y: 32
-        width: 32
-        height: 32
+        x: 1710
+        y: 0
+        width: 190
+        height: 240
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -365,20 +365,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6e2cebc2a991e4b6981ffd9580e55ee6
-      internalID: -1802343999
+      spriteID: 484b197f0941f4a08a3d40b7abf900f3
+      internalID: 37316598
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Zombie (1) (1)_10
+      name: Obelisk_10
       rect:
         serializedVersion: 2
-        x: 64
-        y: 32
-        width: 32
-        height: 32
+        x: 1900
+        y: 0
+        width: 190
+        height: 240
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -386,8 +386,71 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d1e74acdf0ba04e43b28344af7879d78
-      internalID: -1599576682
+      spriteID: dc18b0994d0274c12ae4cfb7735934a3
+      internalID: 803734600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obelisk_11
+      rect:
+        serializedVersion: 2
+        x: 2090
+        y: 0
+        width: 190
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9309879b2963456f913b8608f030b2a
+      internalID: -760146845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obelisk_12
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 0
+        width: 190
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4edbc6422cf4286a4b8b4bb76c8af8
+      internalID: 1089003501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obelisk_13
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 0
+        width: 190
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba56404f16d194b28a94c857bb3ae864
+      internalID: -1576619907
       vertices: []
       indices: 
       edges: []
@@ -403,17 +466,20 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Zombie (1) (1)_0: -516821556
-      Zombie (1) (1)_1: -599554869
-      Zombie (1) (1)_10: -1599576682
-      Zombie (1) (1)_2: 156926478
-      Zombie (1) (1)_3: 1452405283
-      Zombie (1) (1)_4: 919038026
-      Zombie (1) (1)_5: -1651281267
-      Zombie (1) (1)_6: -1112593791
-      Zombie (1) (1)_7: -402074815
-      Zombie (1) (1)_8: 1033487707
-      Zombie (1) (1)_9: -1802343999
+      Obelisk_0: 1466460366
+      Obelisk_1: -1392834593
+      Obelisk_10: 803734600
+      Obelisk_11: -760146845
+      Obelisk_12: 1089003501
+      Obelisk_13: -1576619907
+      Obelisk_2: 1192090737
+      Obelisk_3: -1849862037
+      Obelisk_4: 405251624
+      Obelisk_5: -803874556
+      Obelisk_6: -2064849507
+      Obelisk_7: 1682986943
+      Obelisk_8: 1803519512
+      Obelisk_9: 37316598
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

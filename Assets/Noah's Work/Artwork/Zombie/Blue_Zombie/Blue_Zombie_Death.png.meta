@@ -72,7 +72,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -162,7 +162,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Blue_Zombie_death_0
+      name: Blue_Zombie_Death_0
       rect:
         serializedVersion: 2
         x: 0
@@ -176,14 +176,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a7e768b1da27349f498350c4b4bd815b
-      internalID: -1189617008
+      spriteID: 9c22230d2bdf048c29319b1a24e27dac
+      internalID: -1108210569
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue_Zombie_death_1
+      name: Blue_Zombie_Death_1
       rect:
         serializedVersion: 2
         x: 32
@@ -197,14 +197,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 15bc9844f429a4a49aa23e88ecf90f6c
-      internalID: 2050043497
+      spriteID: 203c3c4be5b834763aef7add0e74c48a
+      internalID: -2034396533
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue_Zombie_death_2
+      name: Blue_Zombie_Death_2
       rect:
         serializedVersion: 2
         x: 64
@@ -218,14 +218,35 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d31eb5906ea6c4db3bed3e01f2cbc727
-      internalID: 838204015
+      spriteID: 964d64d6134624a81a803c28e1a5c296
+      internalID: 549253935
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue_Zombie_death_3
+      name: Blue_Zombie_Death_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508fe2056c9c741cfb87e53cd3634fc5
+      internalID: 584146217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Zombie_Death_4
       rect:
         serializedVersion: 2
         x: 0
@@ -239,14 +260,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 49278e2f2abfa40ed85231bdcf843f9f
-      internalID: -377687941
+      spriteID: a72aa38aabe174c168455daeab5529ed
+      internalID: -861252564
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue_Zombie_death_4
+      name: Blue_Zombie_Death_5
       rect:
         serializedVersion: 2
         x: 32
@@ -260,14 +281,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 360443bf2287d4df18d834311a82136a
-      internalID: 144173377
+      spriteID: 33cc78757289041de8c6074edc4bcf61
+      internalID: 346752555
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue_Zombie_death_5
+      name: Blue_Zombie_Death_6
       rect:
         serializedVersion: 2
         x: 64
@@ -281,14 +302,35 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: eccbd72d91350418e9cacb227afae199
-      internalID: 1342366398
+      spriteID: df7d62667cada4d8cacc96ff029c6684
+      internalID: -130130814
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue_Zombie_death_6
+      name: Blue_Zombie_Death_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e62826a5afd4f51a89ab6cc4dba44a
+      internalID: 1406693774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Zombie_Death_8
       rect:
         serializedVersion: 2
         x: 0
@@ -302,14 +344,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8bf91ad8f537a48058ae4cd96cefbd9a
-      internalID: 2058030592
+      spriteID: aa8e6f26be9cb48afb7dedcac96db3da
+      internalID: -460994402
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue_Zombie_death_7
+      name: Blue_Zombie_Death_9
       rect:
         serializedVersion: 2
         x: 32
@@ -323,14 +365,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2a30839724a5e4dceb2030b93a64dd30
-      internalID: -1797171251
+      spriteID: 20b188dc646b541488a27475df2b7748
+      internalID: 1643805993
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue_Zombie_death_8
+      name: Blue_Zombie_Death_10
       rect:
         serializedVersion: 2
         x: 64
@@ -344,50 +386,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 74935803850fe474f8814dfdbc7f955a
-      internalID: -623761277
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Blue_Zombie_death_9
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a79bca84efdb94cf2a3b7d8b6d0f3bda
-      internalID: -1646811856
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Blue_Zombie_death_10
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 70a25b5553eed4592bff5d36afffbc66
-      internalID: 1358421422
+      spriteID: 0e4f03bbcbca34197b5b768215d1cda8
+      internalID: 836077582
       vertices: []
       indices: 
       edges: []
@@ -403,17 +403,17 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Blue_Zombie_death_0: -1189617008
-      Blue_Zombie_death_1: 2050043497
-      Blue_Zombie_death_10: 1358421422
-      Blue_Zombie_death_2: 838204015
-      Blue_Zombie_death_3: -377687941
-      Blue_Zombie_death_4: 144173377
-      Blue_Zombie_death_5: 1342366398
-      Blue_Zombie_death_6: 2058030592
-      Blue_Zombie_death_7: -1797171251
-      Blue_Zombie_death_8: -623761277
-      Blue_Zombie_death_9: -1646811856
+      Blue_Zombie_Death_0: -1108210569
+      Blue_Zombie_Death_1: -2034396533
+      Blue_Zombie_Death_10: 836077582
+      Blue_Zombie_Death_2: 549253935
+      Blue_Zombie_Death_3: 584146217
+      Blue_Zombie_Death_4: -861252564
+      Blue_Zombie_Death_5: 346752555
+      Blue_Zombie_Death_6: -130130814
+      Blue_Zombie_Death_7: 1406693774
+      Blue_Zombie_Death_8: -460994402
+      Blue_Zombie_Death_9: 1643805993
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

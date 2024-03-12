@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: bf8981f20155643a7b046aa2b476a811
+guid: efd744e4be04d44c6bdd33c9f2fb094c
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -72,7 +72,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -162,7 +162,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Blue_Zombie_0
+      name: RedZombie_0
       rect:
         serializedVersion: 2
         x: 0
@@ -176,14 +176,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b6341fd280e484bd2bd5a683523ee9f3
-      internalID: -503828912
+      spriteID: d247208ca251a41f895d289a3dc5faec
+      internalID: 281052992
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue_Zombie_1
+      name: RedZombie_1
       rect:
         serializedVersion: 2
         x: 32
@@ -197,14 +197,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6bd3536ec41584dd18c49e3220d6508d
-      internalID: -1857958067
+      spriteID: fd1db2806c0264742aa0d8217ec88b50
+      internalID: 410435568
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue_Zombie_2
+      name: RedZombie_2
       rect:
         serializedVersion: 2
         x: 64
@@ -218,14 +218,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2c9610ee1350c466eb338ccf4fa3b801
-      internalID: -848952855
+      spriteID: e5284008f721142d4b2035b714571ae2
+      internalID: 725286876
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue_Zombie_3
+      name: RedZombie_3
       rect:
         serializedVersion: 2
         x: 96
@@ -239,14 +239,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d8116f31f69334b39916ca25654c0f08
-      internalID: 678893181
+      spriteID: c4416cc53ad7f4779bd80112c6d3ca29
+      internalID: 875159214
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue_Zombie_4
+      name: RedZombie_4
       rect:
         serializedVersion: 2
         x: 128
@@ -260,14 +260,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4c6ec3eb9f6584da0aaa0789c5c31e30
-      internalID: -267651799
+      spriteID: 2fcaeb7fdeaf04f4bbf5fe2fdd396e84
+      internalID: 966244509
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue_Zombie_5
+      name: RedZombie_5
       rect:
         serializedVersion: 2
         x: 160
@@ -281,14 +281,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 35b3cc5deae7b4351a84009b4c82de07
-      internalID: -1162972464
+      spriteID: d01d2d3f0f42841568523c7223815856
+      internalID: 1284432021
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue_Zombie_6
+      name: RedZombie_6
       rect:
         serializedVersion: 2
         x: 192
@@ -302,14 +302,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: aff47df3251f447f29a0eb37513848a0
-      internalID: -1102483361
+      spriteID: a6a91a07200e845bd94a0098a9b4b631
+      internalID: 1297683523
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue_Zombie_7
+      name: RedZombie_7
       rect:
         serializedVersion: 2
         x: 224
@@ -323,14 +323,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 925f88c150f464a74a3e86ecee2506fd
-      internalID: -1483201142
+      spriteID: 5084efed4ed8e45bdabbd997b92da273
+      internalID: -779340089
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue_Zombie_8
+      name: RedZombie_8
       rect:
         serializedVersion: 2
         x: 0
@@ -344,14 +344,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3c7d16d4174404f3f91879ec0c9507a0
-      internalID: 81134541
+      spriteID: 47427e7790b59414faf801f8baef1099
+      internalID: -443105211
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue_Zombie_9
+      name: RedZombie_9
       rect:
         serializedVersion: 2
         x: 32
@@ -365,14 +365,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a2cdb2d625e964b85ba75c4d0bd4713b
-      internalID: 1672519793
+      spriteID: 200f9ac1876fb482e94b7ea013047863
+      internalID: -1090709723
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue_Zombie_10
+      name: RedZombie_10
       rect:
         serializedVersion: 2
         x: 64
@@ -386,14 +386,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ab57a957e5a224fac86a0432c0295a79
-      internalID: 681419772
+      spriteID: 9ffac743b1c734010b5da1b7ab31e446
+      internalID: -900822236
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue_Zombie_11
+      name: RedZombie_11
       rect:
         serializedVersion: 2
         x: 96
@@ -407,14 +407,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e8e0688213972401a96ca4610ea98fac
-      internalID: -1518334675
+      spriteID: d18a83a8827f94ff78786db190e64407
+      internalID: 1904461019
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue_Zombie_12
+      name: RedZombie_12
       rect:
         serializedVersion: 2
         x: 128
@@ -428,14 +428,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fab4bc4e1f827408488839fc89179d48
-      internalID: -581777266
+      spriteID: ae89a3b91f38741b8a748bf79e737c9a
+      internalID: 336999738
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue_Zombie_13
+      name: RedZombie_13
       rect:
         serializedVersion: 2
         x: 160
@@ -449,14 +449,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d3ac87e170f53447c91e1d05322f7d45
-      internalID: -586706447
+      spriteID: 948c9f14e054a412cacd1b0de8b2ae21
+      internalID: -2142791
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue_Zombie_14
+      name: RedZombie_14
       rect:
         serializedVersion: 2
         x: 192
@@ -470,14 +470,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cc8f0ba6051c6454c9d58b7db8ff0115
-      internalID: -657450613
+      spriteID: 6ed7f53bdaaae4186bea7e412e8e65e4
+      internalID: -866136129
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue_Zombie_15
+      name: RedZombie_15
       rect:
         serializedVersion: 2
         x: 0
@@ -491,14 +491,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e0e048da2e7e443f5b31bfab024cf86c
-      internalID: 1805941405
+      spriteID: 2510be80f55fd4753b0a91936a070f1a
+      internalID: -686215556
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue_Zombie_16
+      name: RedZombie_16
       rect:
         serializedVersion: 2
         x: 32
@@ -512,14 +512,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f800a53cca9bd4b0a9c9689928cd8fad
-      internalID: -860940697
+      spriteID: cff6d1dcc54414f559fc35b0e03a9001
+      internalID: -1131049073
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue_Zombie_17
+      name: RedZombie_17
       rect:
         serializedVersion: 2
         x: 64
@@ -533,14 +533,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 529910b417e2e41c2be59dbf04676ec0
-      internalID: 406512570
+      spriteID: 69c59e38f5b1142ca9de4986b3b3192d
+      internalID: 1311100752
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue_Zombie_18
+      name: RedZombie_18
       rect:
         serializedVersion: 2
         x: 96
@@ -554,14 +554,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 88f844d39bc234e8e816e6a1bc78ac47
-      internalID: 354698172
+      spriteID: d9cbee357582b4a31adc4fb3dfef41cf
+      internalID: -1192751882
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue_Zombie_19
+      name: RedZombie_19
       rect:
         serializedVersion: 2
         x: 128
@@ -575,14 +575,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 32d69f2a9e675411e95f6112771aa8fe
-      internalID: -884106273
+      spriteID: 90b02c451d5484280aea941207ca3afc
+      internalID: -1682394732
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue_Zombie_20
+      name: RedZombie_20
       rect:
         serializedVersion: 2
         x: 160
@@ -596,14 +596,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d6a145b8efede4ee299bc1f7c153097c
-      internalID: -1480407207
+      spriteID: 028519111811743a6a0632da132a96eb
+      internalID: -1665604418
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue_Zombie_21
+      name: RedZombie_21
       rect:
         serializedVersion: 2
         x: 192
@@ -617,14 +617,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 47a4cda213ed84dbfb8e0ff89dac19a5
-      internalID: -1196260145
+      spriteID: 46d302e8fac784f55864feb19e00655a
+      internalID: 1240760539
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue_Zombie_22
+      name: RedZombie_22
       rect:
         serializedVersion: 2
         x: 224
@@ -638,14 +638,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a42c31efe6e694632bfedcf047acbf24
-      internalID: 1919028930
+      spriteID: 41be4a085f73049f4a0c62551e8ca196
+      internalID: -106549212
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue_Zombie_23
+      name: RedZombie_23
       rect:
         serializedVersion: 2
         x: 0
@@ -659,14 +659,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 15c05304e016c4f879e5dc5daa67d606
-      internalID: -892468406
+      spriteID: 28533637818ea4945b6ba9a4989c9171
+      internalID: -328941462
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue_Zombie_24
+      name: RedZombie_24
       rect:
         serializedVersion: 2
         x: 32
@@ -680,14 +680,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bd5708da6bc1f4abd8feea04c9eba4c3
-      internalID: 783000484
+      spriteID: 22e059594dbda4a59963f5c49fbf393c
+      internalID: -141029446
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue_Zombie_25
+      name: RedZombie_25
       rect:
         serializedVersion: 2
         x: 64
@@ -701,14 +701,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d27e3d2358f114594a7d36d6f573d791
-      internalID: -907560377
+      spriteID: b31143f87b68244c29961254b740e71b
+      internalID: 1821463817
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue_Zombie_26
+      name: RedZombie_26
       rect:
         serializedVersion: 2
         x: 96
@@ -722,14 +722,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 20cdc78b9fbb3423ab856e966100ed89
-      internalID: 321696015
+      spriteID: c9c375357824d40ca95a29c39cc6ec5d
+      internalID: -1135615304
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue_Zombie_27
+      name: RedZombie_27
       rect:
         serializedVersion: 2
         x: 128
@@ -743,14 +743,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 703c43ccbce2e4c71ad17118d662be8e
-      internalID: 1058310992
+      spriteID: ede3d7f2af88c49a793e6f08db77d642
+      internalID: -1106906014
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue_Zombie_28
+      name: RedZombie_28
       rect:
         serializedVersion: 2
         x: 160
@@ -764,14 +764,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 175e89268792f45198e8a3b761ad3848
-      internalID: 1081639678
+      spriteID: a63369c5a92b047adaf6b6162e38264e
+      internalID: 1297950675
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue_Zombie_29
+      name: RedZombie_29
       rect:
         serializedVersion: 2
         x: 192
@@ -785,14 +785,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e01b36c20958144b4ac93d72762ad8f2
-      internalID: -479611483
+      spriteID: 8ef40633e5eb841c7929adbfa62254df
+      internalID: 377721247
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue_Zombie_30
+      name: RedZombie_30
       rect:
         serializedVersion: 2
         x: 224
@@ -806,14 +806,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 816db226e720c4067974a78b33785d4d
-      internalID: -1011790858
+      spriteID: 4c4d2a8c48394434cb98dcba89af1cdb
+      internalID: 446610436
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue_Zombie_31
+      name: RedZombie_31
       rect:
         serializedVersion: 2
         x: 256
@@ -827,14 +827,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0347706b6349549b6a356046e5b96818
-      internalID: -798458794
+      spriteID: fc59d6ce7307f49dba9fb5407c04dc26
+      internalID: -1489654140
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue_Zombie_32
+      name: RedZombie_32
       rect:
         serializedVersion: 2
         x: 288
@@ -848,14 +848,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2e867be8d27d1426a93c46a5eac1ec2f
-      internalID: 17675155
+      spriteID: 8874592c2510d4fc792f70551a4b280d
+      internalID: -119878272
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue_Zombie_33
+      name: RedZombie_33
       rect:
         serializedVersion: 2
         x: 320
@@ -869,14 +869,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 475ef566a05d749e2a0617661e8e8d25
-      internalID: -927664699
+      spriteID: ae4bb1229f0be4bd4b853f05a8706797
+      internalID: -854304923
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue_Zombie_34
+      name: RedZombie_34
       rect:
         serializedVersion: 2
         x: 352
@@ -890,14 +890,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8d1c4ec99bea8430295e13deda5b58c0
-      internalID: 574158590
+      spriteID: d9a1ae0cced5a45d19ea9908d1d878bc
+      internalID: 754110109
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue_Zombie_35
+      name: RedZombie_35
       rect:
         serializedVersion: 2
         x: 384
@@ -911,14 +911,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ea1124dd59c9346069e1ad9d38868a71
-      internalID: -757430594
+      spriteID: 0a445c7f6bbd043f5adc394bd279dd17
+      internalID: 1164334674
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue_Zombie_36
+      name: RedZombie_36
       rect:
         serializedVersion: 2
         x: 0
@@ -932,14 +932,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 07448694ccf1f4d9bb52de6f79b43fd0
-      internalID: -1115640420
+      spriteID: d7676085e580c4d1fa66354f47a3c3e3
+      internalID: -6089200
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue_Zombie_37
+      name: RedZombie_37
       rect:
         serializedVersion: 2
         x: 32
@@ -953,14 +953,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0c92037726c6d4d4d8698f08ddf5d5f8
-      internalID: 1649831190
+      spriteID: 0c0a8622e58204d15a5cd7dfc43aa630
+      internalID: 375542923
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue_Zombie_38
+      name: RedZombie_38
       rect:
         serializedVersion: 2
         x: 64
@@ -974,14 +974,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 27af69a1633b44c5dbf32b57055da2c0
-      internalID: -1575661971
+      spriteID: cbd5af33265f941cbb8b7b64ee079d5e
+      internalID: 291390119
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue_Zombie_39
+      name: RedZombie_39
       rect:
         serializedVersion: 2
         x: 96
@@ -995,14 +995,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 506dd4e158b104ae5aac9ba206258ec9
-      internalID: -1001203843
+      spriteID: a94b11bae85a642f79da493e932f5bab
+      internalID: -373273274
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue_Zombie_40
+      name: RedZombie_40
       rect:
         serializedVersion: 2
         x: 128
@@ -1016,14 +1016,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 59e2442d872ec4686bdda7a36a479ff1
-      internalID: 516707617
+      spriteID: deb5eb678c71441ddb4c906949769c4d
+      internalID: 1323618596
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue_Zombie_41
+      name: RedZombie_41
       rect:
         serializedVersion: 2
         x: 160
@@ -1037,14 +1037,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b9caca3d8526e4dab82a23b782981c18
-      internalID: -155009224
+      spriteID: e9460f1b4d8ee4b539004d29f374c53d
+      internalID: -103439014
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue_Zombie_42
+      name: RedZombie_42
       rect:
         serializedVersion: 2
         x: 192
@@ -1058,14 +1058,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 134e6e87364c444d9b04b8126c028c60
-      internalID: -973566731
+      spriteID: 2686f134df0a6416593e8e1c8b051672
+      internalID: 146648654
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue_Zombie_43
+      name: RedZombie_43
       rect:
         serializedVersion: 2
         x: 224
@@ -1079,14 +1079,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0b4ea0d84704b4d889ea378c18d03778
-      internalID: -535906371
+      spriteID: e654cd81365e24c219db4b71e8d7e986
+      internalID: 1320258926
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue_Zombie_44
+      name: RedZombie_44
       rect:
         serializedVersion: 2
         x: 256
@@ -1100,14 +1100,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6ecc88844f8b24b16b490add601f6bb3
-      internalID: 588280786
+      spriteID: 9b1386f4fcb524cc4b672ab7cf8b581e
+      internalID: -545371294
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue_Zombie_45
+      name: RedZombie_45
       rect:
         serializedVersion: 2
         x: 0
@@ -1121,14 +1121,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3a69c319ac8164a27ac0cb44dc90f1bf
-      internalID: 1798774779
+      spriteID: ffac2d1fc82a443638778026965f4224
+      internalID: -420082599
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue_Zombie_46
+      name: RedZombie_46
       rect:
         serializedVersion: 2
         x: 32
@@ -1142,14 +1142,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9542c5e44ffce4914a900b914dda70a6
-      internalID: 1664542737
+      spriteID: e0ff1f16902dd443882b2fe0774c8656
+      internalID: -1557639800
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue_Zombie_47
+      name: RedZombie_47
       rect:
         serializedVersion: 2
         x: 64
@@ -1163,14 +1163,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3209740b8dd4a4c6ea5169b0b238fbb0
-      internalID: 1524919730
+      spriteID: 3140b2ddaaecb48e1a79dd3b199afd56
+      internalID: 1864114857
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue_Zombie_48
+      name: RedZombie_48
       rect:
         serializedVersion: 2
         x: 96
@@ -1184,14 +1184,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 13ae3970db40e4110a025ab400dea442
-      internalID: 1608302176
+      spriteID: 57493f36384da47cfbe1b6c4326a2719
+      internalID: -1616271406
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue_Zombie_49
+      name: RedZombie_49
       rect:
         serializedVersion: 2
         x: 128
@@ -1205,14 +1205,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 57d7ce4c1ac7048a0aa54c0aa5a0364d
-      internalID: 763175466
+      spriteID: 3c1535cb4eedf463eabff1684f39cca2
+      internalID: -1038918527
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue_Zombie_50
+      name: RedZombie_50
       rect:
         serializedVersion: 2
         x: 160
@@ -1226,14 +1226,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4173e488ee5754f40a4d4dd32f26a76c
-      internalID: 1751587240
+      spriteID: 11d934e0efe1b452a9f375f6a0ef6c24
+      internalID: -195781581
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue_Zombie_51
+      name: RedZombie_51
       rect:
         serializedVersion: 2
         x: 192
@@ -1247,14 +1247,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ecd60e9b438234156a92eb50ee0a9441
-      internalID: 1020791074
+      spriteID: 27d10c04526744005932e32cfa6db840
+      internalID: -81832175
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue_Zombie_52
+      name: RedZombie_52
       rect:
         serializedVersion: 2
         x: 224
@@ -1268,29 +1268,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f6746ec9c9ec94f0788c338c29657776
-      internalID: 854933174
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Blue_Zombie_53
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7865826c17f274774851b57cad76ecce
-      internalID: 1113006772
+      spriteID: 6e92123fb9ed34d1684c12b68be48afc
+      internalID: -1794220429
       vertices: []
       indices: 
       edges: []
@@ -1306,60 +1285,59 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Blue_Zombie_0: -503828912
-      Blue_Zombie_1: -1857958067
-      Blue_Zombie_10: 681419772
-      Blue_Zombie_11: -1518334675
-      Blue_Zombie_12: -581777266
-      Blue_Zombie_13: -586706447
-      Blue_Zombie_14: -657450613
-      Blue_Zombie_15: 1805941405
-      Blue_Zombie_16: -860940697
-      Blue_Zombie_17: 406512570
-      Blue_Zombie_18: 354698172
-      Blue_Zombie_19: -884106273
-      Blue_Zombie_2: -848952855
-      Blue_Zombie_20: -1480407207
-      Blue_Zombie_21: -1196260145
-      Blue_Zombie_22: 1919028930
-      Blue_Zombie_23: -892468406
-      Blue_Zombie_24: 783000484
-      Blue_Zombie_25: -907560377
-      Blue_Zombie_26: 321696015
-      Blue_Zombie_27: 1058310992
-      Blue_Zombie_28: 1081639678
-      Blue_Zombie_29: -479611483
-      Blue_Zombie_3: 678893181
-      Blue_Zombie_30: -1011790858
-      Blue_Zombie_31: -798458794
-      Blue_Zombie_32: 17675155
-      Blue_Zombie_33: -927664699
-      Blue_Zombie_34: 574158590
-      Blue_Zombie_35: -757430594
-      Blue_Zombie_36: -1115640420
-      Blue_Zombie_37: 1649831190
-      Blue_Zombie_38: -1575661971
-      Blue_Zombie_39: -1001203843
-      Blue_Zombie_4: -267651799
-      Blue_Zombie_40: 516707617
-      Blue_Zombie_41: -155009224
-      Blue_Zombie_42: -973566731
-      Blue_Zombie_43: -535906371
-      Blue_Zombie_44: 588280786
-      Blue_Zombie_45: 1798774779
-      Blue_Zombie_46: 1664542737
-      Blue_Zombie_47: 1524919730
-      Blue_Zombie_48: 1608302176
-      Blue_Zombie_49: 763175466
-      Blue_Zombie_5: -1162972464
-      Blue_Zombie_50: 1751587240
-      Blue_Zombie_51: 1020791074
-      Blue_Zombie_52: 854933174
-      Blue_Zombie_53: 1113006772
-      Blue_Zombie_6: -1102483361
-      Blue_Zombie_7: -1483201142
-      Blue_Zombie_8: 81134541
-      Blue_Zombie_9: 1672519793
+      RedZombie_0: 281052992
+      RedZombie_1: 410435568
+      RedZombie_10: -900822236
+      RedZombie_11: 1904461019
+      RedZombie_12: 336999738
+      RedZombie_13: -2142791
+      RedZombie_14: -866136129
+      RedZombie_15: -686215556
+      RedZombie_16: -1131049073
+      RedZombie_17: 1311100752
+      RedZombie_18: -1192751882
+      RedZombie_19: -1682394732
+      RedZombie_2: 725286876
+      RedZombie_20: -1665604418
+      RedZombie_21: 1240760539
+      RedZombie_22: -106549212
+      RedZombie_23: -328941462
+      RedZombie_24: -141029446
+      RedZombie_25: 1821463817
+      RedZombie_26: -1135615304
+      RedZombie_27: -1106906014
+      RedZombie_28: 1297950675
+      RedZombie_29: 377721247
+      RedZombie_3: 875159214
+      RedZombie_30: 446610436
+      RedZombie_31: -1489654140
+      RedZombie_32: -119878272
+      RedZombie_33: -854304923
+      RedZombie_34: 754110109
+      RedZombie_35: 1164334674
+      RedZombie_36: -6089200
+      RedZombie_37: 375542923
+      RedZombie_38: 291390119
+      RedZombie_39: -373273274
+      RedZombie_4: 966244509
+      RedZombie_40: 1323618596
+      RedZombie_41: -103439014
+      RedZombie_42: 146648654
+      RedZombie_43: 1320258926
+      RedZombie_44: -545371294
+      RedZombie_45: -420082599
+      RedZombie_46: -1557639800
+      RedZombie_47: 1864114857
+      RedZombie_48: -1616271406
+      RedZombie_49: -1038918527
+      RedZombie_5: 1284432021
+      RedZombie_50: -195781581
+      RedZombie_51: -81832175
+      RedZombie_52: -1794220429
+      RedZombie_6: 1297683523
+      RedZombie_7: -779340089
+      RedZombie_8: -443105211
+      RedZombie_9: -1090709723
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
