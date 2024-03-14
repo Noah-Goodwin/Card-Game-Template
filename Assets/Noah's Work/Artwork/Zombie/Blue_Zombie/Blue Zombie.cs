@@ -11,9 +11,9 @@ public class Blue_Zombie : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        walkspeed = -0.30f;
+        walkspeed = -1.00f;
         m_Animator = gameObject.GetComponent<Animator>();
-        m_Animator.SetBool("Moving", true);
+        m_Animator.SetBool("Blue_Move", true);
     }
 
     // Update is called once per frame
