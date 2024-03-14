@@ -28,7 +28,7 @@ public class Blue_Zombie : MonoBehaviour
         if(other.CompareTag("test"))
         {
             walkspeed = 0;
-            m_Animator.SetBool("Attack", true);
+            m_Animator.SetBool("Blue_Attack", true);
         }
     }
 }
