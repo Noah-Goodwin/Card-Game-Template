@@ -7,20 +7,27 @@ using UnityEngine;
 public class Zombie_Button : MonoBehaviour
 {
     public GameObject prefab;
-    
+    public Vector3 spawnPoint;
+
+    public bool Spawned;
     // Start is called before the first frame update
     void Start()
     {
-
+        Spawned = false;
     }
 
     // Update is called once per frame
     void Update()
     {
-        Instantiate(prefab, transform.position, quaternion.identity);
+        
     }
-    
-    
-    
-    
+
+    public void SpawnZombie()
+    {
+        Instantiate(prefab, spawnPoint, quaternion.identity);
+        Spawned = true;
+        Destroy(gameObject);
+    }
+
+
 }
