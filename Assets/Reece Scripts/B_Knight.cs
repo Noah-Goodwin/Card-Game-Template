@@ -38,6 +38,7 @@ public class B_Knight : MonoBehaviour
        {
            walkspeed = 0;
            m_Animator.SetBool("Dead", true);
+           
        }
     }
 }
