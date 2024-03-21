@@ -10,11 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: c025b4487bfbb41fca186c7d9d6e18a5, type: 3}
-  m_Name: Orc_Data
+  m_Name: Knight_CardData
   m_EditorClassIdentifier: 
-  card_name: Orc
-  description: Likes to swing an Axe
+  card_name: Knight
+  description: A Noble warrior with a sharp sword that can cut through almost anything,
+    but even their armor can't withstand a strong brute foce attack
   health: 3
   cost: 2
-  damage: 2
-  sprite: {fileID: 21300000, guid: d5ece8b70c4be4f1a99847e09387c1e1, type: 3}
+  damage: 3
+  sprite: {fileID: 540280642, guid: ebd20469ca31743588663be1e03e7409, type: 3}

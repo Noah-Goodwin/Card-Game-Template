@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: f5a4a4200cb084635a1926d66ad9b7cb
+guid: 9149d2578f68142d9b0b9128eb70f13e
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -72,7 +72,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -162,112 +162,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: BlueZombie_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 160
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 25914aa4979904812a879717985bfb02
-      internalID: 1350064152
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BlueZombie_1
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 160
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7285701002fe542348b85ed611a4b894
-      internalID: -1396170418
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BlueZombie_2
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 160
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2ff6153fdf923431b9d39a0a71da95dc
-      internalID: 1480692231
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BlueZombie_3
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 160
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 464a9f14f620548f2ac4c343d524ee93
-      internalID: 1269135780
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BlueZombie_4
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 160
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 593d0d446cddb44479b1b56e915d9545
-      internalID: 11549909
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BlueZombie_5
+      name: BlueZombie (card)_0
       rect:
         serializedVersion: 2
         x: 160
@@ -275,20 +170,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cbb72516b7db04f029a9355f04188cd6
-      internalID: 1911165957
+      spriteID: 71fcbf1470911449e9ec3f64e01a6768
+      internalID: -1993856332
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueZombie_6
+      name: BlueZombie (card)_1
       rect:
         serializedVersion: 2
         x: 192
@@ -296,20 +191,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 928acc38f40534f70b1a5cbb504d5e95
-      internalID: -1870335169
+      spriteID: 39f4b64991ad545db9c28e9d0358dea7
+      internalID: -49646951
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueZombie_7
+      name: BlueZombie (card)_2
       rect:
         serializedVersion: 2
         x: 224
@@ -317,146 +212,125 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: af9cb5b57a57d48b6adac63eff503437
-      internalID: 1259285684
+      spriteID: f073972a870be4120bc2b4c8c5a4bca6
+      internalID: 698784863
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueZombie_8
+      name: BlueZombie (card)_3
       rect:
         serializedVersion: 2
-        x: 0
-        y: 128
+        x: 256
+        y: 160
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 871fd6fbc0a8149a9be84869b9187fd0
-      internalID: 1951867522
+      spriteID: b196a109ab0f141d18194ef0a0e7368c
+      internalID: 957802154
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueZombie_9
+      name: BlueZombie (card)_4
       rect:
         serializedVersion: 2
-        x: 32
-        y: 128
+        x: 288
+        y: 160
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dc82e6a72b94249018b710c16aba8eaa
-      internalID: 2010887328
+      spriteID: 8ed7d81087b5f453ca45b80be3a4ef19
+      internalID: -970274926
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueZombie_10
+      name: BlueZombie (card)_5
       rect:
         serializedVersion: 2
-        x: 64
-        y: 128
+        x: 320
+        y: 160
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 779a861880fe64d69a6d17357ccf989d
-      internalID: -957059087
+      spriteID: c657f7d4c7600463b9f869777f14eb39
+      internalID: 1830921384
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueZombie_11
+      name: BlueZombie (card)_6
       rect:
         serializedVersion: 2
-        x: 96
-        y: 128
+        x: 352
+        y: 160
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ceaf0804ff4604ebeb5f7426d0909ed9
-      internalID: -771559992
+      spriteID: 48647d22ffacf46ecb644bdadc3502d0
+      internalID: -1789837030
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueZombie_12
+      name: BlueZombie (card)_7
       rect:
         serializedVersion: 2
-        x: 128
-        y: 128
+        x: 384
+        y: 160
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f14d80e8a5e1647c4a07b84d3be48300
-      internalID: 1175021934
+      spriteID: 37119c556d4ec4549a6c63710ed044b4
+      internalID: -1210206540
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueZombie_13
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 128
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3f3bb81aece2b4f1cb786f473aae889f
-      internalID: 1552127238
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BlueZombie_14
+      name: BlueZombie (card)_8
       rect:
         serializedVersion: 2
         x: 192
@@ -464,125 +338,146 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 427127e829e734144bbd6f441806da13
-      internalID: -128130957
+      spriteID: c2d12aa2b09aa415b9984a78677bbcb6
+      internalID: -1691032090
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueZombie_15
+      name: BlueZombie (card)_9
       rect:
         serializedVersion: 2
-        x: 0
-        y: 96
+        x: 224
+        y: 128
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 45ffe56fbc37544c88a1ab0fc141f44d
-      internalID: -1579693
+      spriteID: 5262f6f484f754fe2a9d88063e6c5093
+      internalID: 1279798696
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueZombie_16
+      name: BlueZombie (card)_10
       rect:
         serializedVersion: 2
-        x: 32
-        y: 96
+        x: 256
+        y: 128
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c8cfdedf2ac51406b918b603fefc54a1
-      internalID: -926060682
+      spriteID: 85f10587388cd44d89e185ef0ba13efb
+      internalID: -1527798197
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueZombie_17
+      name: BlueZombie (card)_11
       rect:
         serializedVersion: 2
-        x: 64
-        y: 96
+        x: 288
+        y: 128
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 705cab1d6797748debf821613234100c
-      internalID: -891730136
+      spriteID: 70ec5e9a62edf40289b72933d539549c
+      internalID: -207433968
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueZombie_18
+      name: BlueZombie (card)_12
       rect:
         serializedVersion: 2
-        x: 96
-        y: 96
+        x: 320
+        y: 128
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: efd13d80443124090be01ed38829dee6
-      internalID: 1636312714
+      spriteID: ec5f5800014de4e2a94fb303b24b8baf
+      internalID: -873361137
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueZombie_19
+      name: BlueZombie (card)_13
       rect:
         serializedVersion: 2
-        x: 128
-        y: 96
+        x: 352
+        y: 128
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bba0124d7d2654fb3ae034548235c61b
-      internalID: 1604524295
+      spriteID: 997c6a2be62124c7783ce681c9497b7e
+      internalID: 1105214868
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueZombie_20
+      name: BlueZombie (card)_14
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a217ca2d6c454909af4c89ce1f836d0
+      internalID: 1236437672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueZombie (card)_15
       rect:
         serializedVersion: 2
         x: 160
@@ -590,20 +485,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 58a06a6d44bca40ae9e60259d722551d
-      internalID: -446310098
+      spriteID: c9edfbaefdff24c7aa4f087a650b175a
+      internalID: 1685716047
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueZombie_21
+      name: BlueZombie (card)_16
       rect:
         serializedVersion: 2
         x: 192
@@ -611,20 +506,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 69df221a5fd3541589932cbb19493599
-      internalID: 968979482
+      spriteID: 92536baaf1df443ecb36cc614e3f7a29
+      internalID: 272916802
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueZombie_22
+      name: BlueZombie (card)_17
       rect:
         serializedVersion: 2
         x: 224
@@ -632,20 +527,125 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6306b545b7cdd4fd2800252cbf47d2b2
-      internalID: 1386724444
+      spriteID: de8740d84acb043fc828688e02fd9bd2
+      internalID: 603792929
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueZombie_23
+      name: BlueZombie (card)_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040fd16f9444544e785bd94c015322af
+      internalID: -2075874086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueZombie (card)_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d263f6c224c04f5889ecc2a6e3ca314
+      internalID: 155840262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueZombie (card)_20
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81d6d1c4d24043bebf5ff02e246b0ee
+      internalID: -901182315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueZombie (card)_21
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444aa524e2a914c9382f679dab994e72
+      internalID: -1890392089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueZombie (card)_22
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ccd0d95df13c495eacc51383c66e784
+      internalID: 1741304540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueZombie (card)_23
       rect:
         serializedVersion: 2
         x: 0
@@ -653,20 +653,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2d14e793edab843eca182c50de88d5de
-      internalID: -377329339
+      spriteID: 3e2f5871efe314d39995bd356311c898
+      internalID: -2006685766
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueZombie_24
+      name: BlueZombie (card)_24
       rect:
         serializedVersion: 2
         x: 32
@@ -674,20 +674,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 120cac536c1b843bea38621238b27721
-      internalID: 69404622
+      spriteID: b668de99cd9b84191b87c3bd5b7d0876
+      internalID: -896761381
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueZombie_25
+      name: BlueZombie (card)_25
       rect:
         serializedVersion: 2
         x: 64
@@ -695,20 +695,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 45da8a0b0cdeb477b9f17f83adc985f1
-      internalID: -1065503431
+      spriteID: 3a1e447f374704d90a62fffe6f1975ad
+      internalID: 203856706
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueZombie_26
+      name: BlueZombie (card)_26
       rect:
         serializedVersion: 2
         x: 96
@@ -716,20 +716,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9ab03a676a5384dd9a39e06fdfadf8db
-      internalID: 508007643
+      spriteID: 61157753ff6844234898edc40f8feb5c
+      internalID: -480136667
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueZombie_27
+      name: BlueZombie (card)_27
       rect:
         serializedVersion: 2
         x: 128
@@ -737,20 +737,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e7b873eaa8ebe49f4a5e147d8e0403ef
-      internalID: 1796138128
+      spriteID: 3b740aea18db843dc97819a8363796a6
+      internalID: -597436679
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueZombie_28
+      name: BlueZombie (card)_28
       rect:
         serializedVersion: 2
         x: 160
@@ -758,20 +758,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ef55ba175ff8c4ea499536b2be5b45ef
-      internalID: 1010245356
+      spriteID: b73ad9a36d389434d87851960d7b377c
+      internalID: 1925031080
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueZombie_29
+      name: BlueZombie (card)_29
       rect:
         serializedVersion: 2
         x: 192
@@ -779,20 +779,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e00a5d6eb66e849758b26630a4c6c5d7
-      internalID: 1589946182
+      spriteID: e052b88b24d34462aa69f4252991b0ee
+      internalID: -1429107740
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueZombie_30
+      name: BlueZombie (card)_30
       rect:
         serializedVersion: 2
         x: 224
@@ -800,20 +800,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b89c53744afbb4684a931249c48ee1fb
-      internalID: -1400759997
+      spriteID: 81ed1698585be4ffe855a9afacdeecad
+      internalID: 1491467745
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueZombie_31
+      name: BlueZombie (card)_31
       rect:
         serializedVersion: 2
         x: 256
@@ -821,20 +821,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7ddcb425ccd664eada47fc594eb30944
-      internalID: 1857646010
+      spriteID: 4a00ba5f264f743e3a6fc4b70c56c613
+      internalID: 309925433
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueZombie_32
+      name: BlueZombie (card)_32
       rect:
         serializedVersion: 2
         x: 288
@@ -842,20 +842,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 86b28f30225ee42839f3863da7b92ddb
-      internalID: 86854855
+      spriteID: 5abe32813c69941b4856bbfee1e2d678
+      internalID: -1100129480
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueZombie_33
+      name: BlueZombie (card)_33
       rect:
         serializedVersion: 2
         x: 320
@@ -863,20 +863,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b92af31ca13ce4c9dba42e5910cb9662
-      internalID: 1368562061
+      spriteID: 27bac4ca4bc35462299793e519500afa
+      internalID: 1230771445
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueZombie_34
+      name: BlueZombie (card)_34
       rect:
         serializedVersion: 2
         x: 352
@@ -884,20 +884,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 62eb7c4f9e83045cc9df2c20ea5a92f1
-      internalID: -1632090955
+      spriteID: f6eb5c115aae04d1caacc16c5ec7f947
+      internalID: -37921761
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueZombie_35
+      name: BlueZombie (card)_35
       rect:
         serializedVersion: 2
         x: 384
@@ -905,104 +905,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0ae7e4c4ba8984701af9b30e581ef3f8
-      internalID: 1215600851
+      spriteID: 287b934a9631f467588ced4958a827ed
+      internalID: -373631825
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueZombie_36
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 32
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 51900ea36d5544c0abaaed535b856df6
-      internalID: 1676703000
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BlueZombie_37
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 32
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fe9cf85b89d4c47dcbf9164ca411c150
-      internalID: -533006035
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BlueZombie_38
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 32
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2d9c3231cc003425383155705813b9d0
-      internalID: -143473972
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BlueZombie_39
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 32
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 06ca89cd6d8694d43b58a35b0e035c05
-      internalID: -732833079
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BlueZombie_40
+      name: BlueZombie (card)_36
       rect:
         serializedVersion: 2
         x: 128
@@ -1010,20 +926,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5550fcc6e8db942ef960b522360c7d81
-      internalID: -1839914433
+      spriteID: 373ed0e6d6d1f46b58ee7de206b52e40
+      internalID: -1719061
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueZombie_41
+      name: BlueZombie (card)_37
       rect:
         serializedVersion: 2
         x: 160
@@ -1031,20 +947,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e8bae517b4edf416f85a521363fa2b0d
-      internalID: -2098593944
+      spriteID: dfa9c0dd759004477a2048894c677d83
+      internalID: 492889753
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueZombie_42
+      name: BlueZombie (card)_38
       rect:
         serializedVersion: 2
         x: 192
@@ -1052,20 +968,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8f7c1fbcb9f9d4c1d88d4adbe0fd273b
-      internalID: -1711145428
+      spriteID: dd4d47b29cc07437891668a34c34676c
+      internalID: -47012916
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueZombie_43
+      name: BlueZombie (card)_39
       rect:
         serializedVersion: 2
         x: 224
@@ -1073,20 +989,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9c7c7b054a9514383a2d7aba5b0bd0fa
-      internalID: -93652909
+      spriteID: 602ae041833ec4c40b9a86792b5a20eb
+      internalID: -1222062524
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueZombie_44
+      name: BlueZombie (card)_40
       rect:
         serializedVersion: 2
         x: 256
@@ -1094,125 +1010,104 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bcbda14711b6047fd80a475b3b2764ef
-      internalID: -1463851396
+      spriteID: 41917d8a61dec4ba899966bbce194a0b
+      internalID: 1697035302
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueZombie_45
+      name: BlueZombie (card)_41
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
+        x: 288
+        y: 32
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 170dbd1e0e747421892f87a72f5ad9f8
-      internalID: -1004815649
+      spriteID: ed6cad5d5944149d585ddd93fb342bf9
+      internalID: 1763154869
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueZombie_46
+      name: BlueZombie (card)_42
       rect:
         serializedVersion: 2
-        x: 32
-        y: 0
+        x: 320
+        y: 32
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bb15b4daa388f484190acc1abf025daa
-      internalID: -1092502741
+      spriteID: 6561f3cea15674be68808f8875f2c169
+      internalID: 612058397
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueZombie_47
+      name: BlueZombie (card)_43
       rect:
         serializedVersion: 2
-        x: 64
-        y: 0
+        x: 352
+        y: 32
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fe29c5ec98ac545fa8047f33350bf628
-      internalID: -196630565
+      spriteID: 76bf7a608e7704df5b185af7b9ca174c
+      internalID: 668445569
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueZombie_48
+      name: BlueZombie (card)_44
       rect:
         serializedVersion: 2
-        x: 96
-        y: 0
+        x: 384
+        y: 32
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ab44ef8ff56694e30a88782a978789df
-      internalID: 496108972
+      spriteID: 6dc90cc574fff44d19c62bd906d1dbee
+      internalID: 679800996
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueZombie_49
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ea365f60558894bafba4e0517447948a
-      internalID: 2019799295
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BlueZombie_50
+      name: BlueZombie (card)_45
       rect:
         serializedVersion: 2
         x: 160
@@ -1220,20 +1115,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6c97eea34b4ce4e7587993521e895d75
-      internalID: -24262934
+      spriteID: d3bb9eabdee5746419f92841c0113f29
+      internalID: 2060330877
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueZombie_51
+      name: BlueZombie (card)_46
       rect:
         serializedVersion: 2
         x: 192
@@ -1241,20 +1136,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e8f35fd45963a430a822ecbd0592863f
-      internalID: 188282681
+      spriteID: 1b45bef87ec15444cb45b7a84c19cd70
+      internalID: 2126491474
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueZombie_52
+      name: BlueZombie (card)_47
       rect:
         serializedVersion: 2
         x: 224
@@ -1262,14 +1157,119 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c7f47fa3af3c746cb90421b5ea3e736e
-      internalID: 546763343
+      spriteID: 37ea9db66383c47438410f885c054bef
+      internalID: -967603245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueZombie (card)_48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5fac14a9006a403182aa4eaea9e0f50
+      internalID: 1967484212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueZombie (card)_49
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9d772b4c49447d1ab9c039bcc2a078
+      internalID: -493552551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueZombie (card)_50
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e8328c0d03c4485b9739034d8ac8e0
+      internalID: 888913914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueZombie (card)_51
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c51ac81229ed4c62be20b15088edc5e
+      internalID: -466714787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueZombie (card)_52
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48478dbb64f6d45dfb53640ba0132868
+      internalID: -1174511621
       vertices: []
       indices: 
       edges: []
@@ -1285,59 +1285,59 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      BlueZombie_0: 1350064152
-      BlueZombie_1: -1396170418
-      BlueZombie_10: -957059087
-      BlueZombie_11: -771559992
-      BlueZombie_12: 1175021934
-      BlueZombie_13: 1552127238
-      BlueZombie_14: -128130957
-      BlueZombie_15: -1579693
-      BlueZombie_16: -926060682
-      BlueZombie_17: -891730136
-      BlueZombie_18: 1636312714
-      BlueZombie_19: 1604524295
-      BlueZombie_2: 1480692231
-      BlueZombie_20: -446310098
-      BlueZombie_21: 968979482
-      BlueZombie_22: 1386724444
-      BlueZombie_23: -377329339
-      BlueZombie_24: 69404622
-      BlueZombie_25: -1065503431
-      BlueZombie_26: 508007643
-      BlueZombie_27: 1796138128
-      BlueZombie_28: 1010245356
-      BlueZombie_29: 1589946182
-      BlueZombie_3: 1269135780
-      BlueZombie_30: -1400759997
-      BlueZombie_31: 1857646010
-      BlueZombie_32: 86854855
-      BlueZombie_33: 1368562061
-      BlueZombie_34: -1632090955
-      BlueZombie_35: 1215600851
-      BlueZombie_36: 1676703000
-      BlueZombie_37: -533006035
-      BlueZombie_38: -143473972
-      BlueZombie_39: -732833079
-      BlueZombie_4: 11549909
-      BlueZombie_40: -1839914433
-      BlueZombie_41: -2098593944
-      BlueZombie_42: -1711145428
-      BlueZombie_43: -93652909
-      BlueZombie_44: -1463851396
-      BlueZombie_45: -1004815649
-      BlueZombie_46: -1092502741
-      BlueZombie_47: -196630565
-      BlueZombie_48: 496108972
-      BlueZombie_49: 2019799295
-      BlueZombie_5: 1911165957
-      BlueZombie_50: -24262934
-      BlueZombie_51: 188282681
-      BlueZombie_52: 546763343
-      BlueZombie_6: -1870335169
-      BlueZombie_7: 1259285684
-      BlueZombie_8: 1951867522
-      BlueZombie_9: 2010887328
+      BlueZombie (card)_0: -1993856332
+      BlueZombie (card)_1: -49646951
+      BlueZombie (card)_10: -1527798197
+      BlueZombie (card)_11: -207433968
+      BlueZombie (card)_12: -873361137
+      BlueZombie (card)_13: 1105214868
+      BlueZombie (card)_14: 1236437672
+      BlueZombie (card)_15: 1685716047
+      BlueZombie (card)_16: 272916802
+      BlueZombie (card)_17: 603792929
+      BlueZombie (card)_18: -2075874086
+      BlueZombie (card)_19: 155840262
+      BlueZombie (card)_2: 698784863
+      BlueZombie (card)_20: -901182315
+      BlueZombie (card)_21: -1890392089
+      BlueZombie (card)_22: 1741304540
+      BlueZombie (card)_23: -2006685766
+      BlueZombie (card)_24: -896761381
+      BlueZombie (card)_25: 203856706
+      BlueZombie (card)_26: -480136667
+      BlueZombie (card)_27: -597436679
+      BlueZombie (card)_28: 1925031080
+      BlueZombie (card)_29: -1429107740
+      BlueZombie (card)_3: 957802154
+      BlueZombie (card)_30: 1491467745
+      BlueZombie (card)_31: 309925433
+      BlueZombie (card)_32: -1100129480
+      BlueZombie (card)_33: 1230771445
+      BlueZombie (card)_34: -37921761
+      BlueZombie (card)_35: -373631825
+      BlueZombie (card)_36: -1719061
+      BlueZombie (card)_37: 492889753
+      BlueZombie (card)_38: -47012916
+      BlueZombie (card)_39: -1222062524
+      BlueZombie (card)_4: -970274926
+      BlueZombie (card)_40: 1697035302
+      BlueZombie (card)_41: 1763154869
+      BlueZombie (card)_42: 612058397
+      BlueZombie (card)_43: 668445569
+      BlueZombie (card)_44: 679800996
+      BlueZombie (card)_45: 2060330877
+      BlueZombie (card)_46: 2126491474
+      BlueZombie (card)_47: -967603245
+      BlueZombie (card)_48: 1967484212
+      BlueZombie (card)_49: -493552551
+      BlueZombie (card)_5: 1830921384
+      BlueZombie (card)_50: 888913914
+      BlueZombie (card)_51: -466714787
+      BlueZombie (card)_52: -1174511621
+      BlueZombie (card)_6: -1789837030
+      BlueZombie (card)_7: -1210206540
+      BlueZombie (card)_8: -1691032090
+      BlueZombie (card)_9: 1279798696
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
