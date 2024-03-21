@@ -8,6 +8,7 @@ public class B_Knight : MonoBehaviour
 {
     Animator m_Animator;
     private float walkspeed;
+    
     // Start is called before the first frame update
     void Start()
     {
@@ -38,6 +39,8 @@ public class B_Knight : MonoBehaviour
        {
            walkspeed = 0;
            m_Animator.SetBool("Dead", true);
+           
+           Destroy(gameObject);
            
        }
     }
