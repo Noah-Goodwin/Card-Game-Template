@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using Unity.Mathematics;
 using UnityEngine;
 
-public class Zombie_Button : MonoBehaviour
+public class Button : MonoBehaviour
 {
     public GameObject prefab;
     public Vector3 spawnPoint;
