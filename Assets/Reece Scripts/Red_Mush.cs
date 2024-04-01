@@ -20,22 +20,16 @@ public class Red_Mush : MonoBehaviour
        
     }
 
-    void OnTriggerEnter2D(Collider2D other)
+     void OnCollisionEnter2D(Collision2D col)
     {
-        if(other.CompareTag("test"))
-        {
-            walkspeed = 0;
-            m_Animator.SetBool("MushA", true);
-        }
-        else m_Animator.SetBool("MushA", false);
+        
 
-        if (other.CompareTag("B_Knight"))
+        if (col.gameObject.CompareTag("B_Knight"))
         {
-            walkspeed = 0;
             m_Animator.SetBool("MushA", true);
         }
         else
-            walkspeed = 0.03f;
+            walkspeed = 0.30f;
         m_Animator.SetBool("MushA", false);
         
     }
