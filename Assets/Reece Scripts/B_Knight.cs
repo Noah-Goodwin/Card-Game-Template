@@ -1,8 +1,10 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.Threading;
 using Unity.VisualScripting;
 using UnityEngine;
+using System.Threading.Tasks;
 
 public class B_Knight : MonoBehaviour
 {
@@ -32,16 +34,22 @@ public class B_Knight : MonoBehaviour
         }
         
     }
+
+
     void OnCollisionEnter2D(Collision2D col)
     {
         Debug.Log("Hit");
-       if(col.gameObject.CompareTag("Red_Mush"))
-       {
-           walkspeed = 0;
-           m_Animator.SetBool("Dead", true);
-           
-           Destroy(gameObject);
-           
-       }
+        if (col.gameObject.CompareTag("Red_Mush"))
+        {
+
+            walkspeed = 0;
+            m_Animator.SetBool("Dead", true);
+            
+        }
+
+    }
+    void Delete()
+    {
+        Destroy(gameObject);
     }
 }

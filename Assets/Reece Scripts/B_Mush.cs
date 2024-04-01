@@ -38,4 +38,9 @@ public class B_Mush : MonoBehaviour
             m_Animator.SetBool("Dead", true);
         }
     }
+
+    void Delete()
+    {
+        Destroy(gameObject);
+    }
 }
