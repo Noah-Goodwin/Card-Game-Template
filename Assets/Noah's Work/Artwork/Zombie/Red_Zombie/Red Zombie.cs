@@ -41,4 +41,23 @@ public class Red_Zombie : MonoBehaviour
             blue.Spawned = false;
         }
     }
+    
+    
+    void OnCollisionEnter2D(Collision2D col)
+    {
+        Debug.Log("Hit");
+        if (col.gameObject.CompareTag("B_Knight"))
+        {
+
+            Red_walkspeed = 0;
+            m_Animator.SetBool("Red_Death", true);
+            
+        }
+
+    }
+
+    void Death()
+    {
+        Destroy(gameObject);
+    }
 }
