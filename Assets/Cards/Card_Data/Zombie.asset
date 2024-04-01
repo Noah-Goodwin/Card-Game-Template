@@ -13,8 +13,10 @@ MonoBehaviour:
   m_Name: Zombie
   m_EditorClassIdentifier: 
   card_name: Zombie
-  description: Eat Brains
+  description: Loves to eat brains, its weak strength can't break through armor but
+    it is fast and can quickly take out slower and more exposed enemies, its decaying
+    flesh causes it to be weak and can be killed with a simple well placed slash
   health: 1
-  cost: 2
-  damage: 4
-  sprite: {fileID: 0}
+  cost: 3
+  damage: 0
+  sprite: {fileID: -1993856332, guid: 9149d2578f68142d9b0b9128eb70f13e, type: 3}
