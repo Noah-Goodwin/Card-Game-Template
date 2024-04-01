@@ -27,6 +27,7 @@ public class Red_Zombie : MonoBehaviour
             m_Animator.SetBool("Red_Move", true);
             Red_walkspeed = 1.00f;
             transform.Translate(Red_walkspeed * Time.deltaTime, 0f, 0f, Space.Self);
+            
         }
     }
     
@@ -35,9 +36,9 @@ public class Red_Zombie : MonoBehaviour
     {
         if(other.CompareTag("test"))
         {
-            
-            Red_walkspeed = 0;
+            Red_walkspeed = 0f;
             m_Animator.SetBool("Red_Attack", true);
+            blue.Spawned = false;
         }
     }
 }

@@ -28,6 +28,13 @@ public class SpawnButton : MonoBehaviour
         Spawned = true;
         Destroy(gameObject);
     }
+    
+    public void SpawnKnight()
+    {
+        Instantiate(prefab, spawnPoint, quaternion.identity);
+        Spawned = true;
+        Destroy(gameObject);
+    }
 
 
 }

@@ -12,6 +12,8 @@ TagManager:
   - B_Zombie
   - R_Zombie
   - Z_Button
+  - Red_Mush
+  - K_Button
   layers:
   - Default
   - TransparentFX
