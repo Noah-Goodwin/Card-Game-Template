@@ -37,6 +37,13 @@ public class B_Mush : MonoBehaviour
             walkspeed = 0;
             m_Animator.SetBool("Dead", true);
         }
+       
+        
+        if(col.gameObject.CompareTag("Red_Mush"))
+        {
+            walkspeed = 0;
+            m_Animator.SetBool("Tie", true);
+        }
     }
 
     void Delete()

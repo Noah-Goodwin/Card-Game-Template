@@ -46,6 +46,13 @@ public class B_Knight : MonoBehaviour
             m_Animator.SetBool("Dead", true);
             
         }
+        if (col.gameObject.CompareTag("R_Knight"))
+        {
+
+            walkspeed = 0;
+            m_Animator.SetBool("Tie", true);
+            
+        }
 
     }
     void Delete()

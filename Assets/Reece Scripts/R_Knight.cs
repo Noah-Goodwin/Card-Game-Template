@@ -28,4 +28,27 @@ public class R_Knight : MonoBehaviour
             m_Animator.SetBool("interact", true);
         }
     }
+    void OnCollisionEnter2D(Collision2D col)
+    {
+        Debug.Log("Hit");
+        if (col.gameObject.CompareTag("B_Mush"))
+        {
+
+            walkspeed = 0;
+            m_Animator.SetBool("Death", true);
+            
+        }
+        if (col.gameObject.CompareTag("B_Knight"))
+        {
+
+            walkspeed = 0;
+            m_Animator.SetBool("Tie", true);
+            
+        }
+
+    }
+    void Delete()
+    {
+        Destroy(gameObject);
+    }
 }

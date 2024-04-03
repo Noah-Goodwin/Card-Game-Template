@@ -3,7 +3,15 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - B_Tower
+  - test
+  - R_Tower
+  - B_Knight
+  - R_Knight
+  - Red_Mush
+  - R_Zombie
+  - B_Mush
   layers:
   - Default
   - TransparentFX

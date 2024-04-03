@@ -8,11 +8,11 @@ public class Cardpick : MonoBehaviour
 
     public bool Picked;
 
-    
+
     // Start is called before the first frame update
     void Start()
     {
-        int[ ] cards = { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3};
+        int[] cards = { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3 };
     }
 
     // Update is called once per frame
@@ -22,12 +22,18 @@ public class Cardpick : MonoBehaviour
         {
             Debug.Log("");
             Picked = true;
-           
+
         }
     }
 
     void roundStart()
     {
+
+    }
+
+    void tostring()
+    {
         
     }
+
 }
