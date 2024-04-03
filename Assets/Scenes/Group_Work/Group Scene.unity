@@ -898,7 +898,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 993088097}
-        m_TargetAssemblyTypeName: Zombie_Button, Assembly-CSharp
+        m_TargetAssemblyTypeName: SpawnButton, Assembly-CSharp
         m_MethodName: SpawnZombie
         m_Mode: 1
         m_Arguments:
