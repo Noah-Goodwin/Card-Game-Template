@@ -51,6 +51,7 @@ public class Red_Zombie : MonoBehaviour
 
             Red_walkspeed = 0;
             m_Animator.SetBool("Red_Death", true);
+            blue.Spawned = false;
             
         }
 

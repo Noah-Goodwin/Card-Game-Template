@@ -37,11 +37,19 @@ public class Game_B_Knight : MonoBehaviour
         Debug.Log("Hit");
        if(col.gameObject.CompareTag("Red_Mush"))
        {
+           
            walkspeed = 0;
            m_Animator.SetBool("Dead", true);
            
            Destroy(gameObject);
            
+       }
+
+
+       if (col.gameObject.CompareTag("R_Zombie"))
+       {
+           walkspeed = 0;
+           m_Animator.SetBool("interact", true);
        }
     }
 }
