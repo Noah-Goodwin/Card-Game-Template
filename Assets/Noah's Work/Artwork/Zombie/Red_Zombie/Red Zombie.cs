@@ -54,6 +54,16 @@ public class Red_Zombie : MonoBehaviour
             blue.Spawned = false;
             
         }
+        
+        Debug.Log("Hit");
+        if (col.gameObject.CompareTag("B_Zombie"))
+        {
+
+            Red_walkspeed = 0;
+            m_Animator.SetBool("Red_Death", true);
+            blue.Spawned = false;
+            
+        }
 
     }
 

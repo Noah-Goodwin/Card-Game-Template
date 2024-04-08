@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 1125727042160659974}
   - component: {fileID: 1608689224262292163}
   - component: {fileID: 81116485179855523}
-  - component: {fileID: -7494463984417359361}
+  - component: {fileID: 7385518049340259676}
   m_Layer: 0
   m_Name: Game_Blue_Knight
   m_TagString: B_Knight
@@ -181,7 +181,7 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
---- !u!114 &-7494463984417359361
+--- !u!114 &7385518049340259676
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}

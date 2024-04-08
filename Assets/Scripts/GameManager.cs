@@ -11,7 +11,7 @@ public class GameManager : MonoBehaviour
     public List<Card> player_hand = new List<Card>();
     public List<Card> ai_hand = new List<Card>();
     public List<Card> discard_pile = new List<Card>();
-
+    public bool gameActive = false;
     private void Awake()
     {
         if (gm != null && gm != this)
@@ -23,6 +23,8 @@ public class GameManager : MonoBehaviour
             gm = this;
             DontDestroyOnLoad(this.gameObject);
         }
+
+        gameActive = false;
     }
     // Start is called before the first frame update
     void Start()
@@ -33,7 +35,7 @@ public class GameManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+     print(gameActive);   
     }
 
     void Deal()

@@ -10,13 +10,15 @@ public class SpawnButton : MonoBehaviour
     public GameObject prefab_knight;
     public GameObject prefab_mushroom;
     public Vector3 spawnPoint;
-    public bool game_active;
+   
+    private GameManager gm;
 
     public bool Spawned;
     // Start is called before the first frame update
     void Start()
     {
-        game_active = false;
+
+        gm = FindObjectOfType<GameManager>();
         Spawned = false;
     }
 
@@ -30,7 +32,7 @@ public class SpawnButton : MonoBehaviour
     {
         Instantiate(prefab_zombie, spawnPoint, quaternion.identity);
         Spawned = true;
-        game_active = true;
+        gm.gameActive = true;
         //Destroy(gameObject);
     }
     
@@ -38,7 +40,7 @@ public class SpawnButton : MonoBehaviour
     {
         Instantiate(prefab_knight, spawnPoint, quaternion.identity);
         Spawned = true;
-        game_active = true;
+        gm.gameActive = true;
         //Destroy(gameObject);
     }
     
@@ -46,7 +48,7 @@ public class SpawnButton : MonoBehaviour
     {
         Instantiate(prefab_mushroom, spawnPoint, quaternion.identity);
         Spawned = true;
-        game_active = true;
+        gm.gameActive = true;
         //Destroy(gameObject);
     }
 

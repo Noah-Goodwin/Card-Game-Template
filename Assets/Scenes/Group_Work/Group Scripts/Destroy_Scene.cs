@@ -6,13 +6,14 @@ using UnityEngine;
 public class Destroy_Scene : MonoBehaviour
 {
     // Start is called before the first frame update
-    public bool game_active;
+    private GameManager gm;
     
     
     
     void Start()
     {
-        game_active = false;
+        gm = FindObjectOfType<GameManager>();
+        
     }
     
 
@@ -20,9 +21,9 @@ public class Destroy_Scene : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (game_active=true)
+        if (gm.gameActive)
         {
-        Destroy(gameObject);
+            Destroy(gameObject);
         }
     }
 }

@@ -44,6 +44,18 @@ public class Game_B_Knight : MonoBehaviour
            Destroy(gameObject);
            
        }
+       
+       Debug.Log("Hit");
+       if(col.gameObject.CompareTag("R_Knight"))
+       {
+           
+           walkspeed = 0;
+           m_Animator.SetBool("Dead", true);
+           
+           Destroy(gameObject);
+           
+       }
+
 
 
        if (col.gameObject.CompareTag("R_Zombie"))
