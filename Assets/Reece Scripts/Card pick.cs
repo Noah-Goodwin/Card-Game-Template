@@ -4,36 +4,23 @@ using UnityEngine;
 
 public class Cardpick : MonoBehaviour
 {
-
-
-    public bool Picked;
-
+    public GameObject[] objectstopick;
 
     // Start is called before the first frame update
     void Start()
     {
-        int[] cards = { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3 };
+        Pick();
+    }
+
+    void Pick()
+    {
+        int randomIndex = Random.Range(0, objectstopick.Length);
+        GameObject clone = Instantiate(objectstopick[randomIndex], transform.position, Quaternion.identity);
     }
 
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKeyDown("space"))
-        {
-            Debug.Log("");
-            Picked = true;
-
-        }
-    }
-
-    void roundStart()
-    {
-
-    }
-
-    void tostring()
-    {
         
     }
-
 }

@@ -20,7 +20,7 @@ public class Red_Mush : MonoBehaviour
        
     }
 
-     void OnCollisionEnter2D(Collision2D col)
+     void OnCollisionStay2D(Collision2D col)
     {
         
 
@@ -35,9 +35,7 @@ public class Red_Mush : MonoBehaviour
         {
             m_Animator.SetBool("Tie", true);
         }
-        else
-            walkspeed = 0.30f;
-        m_Animator.SetBool("MushA", false);
+       
     }
 
      void death()
