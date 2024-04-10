@@ -37,7 +37,12 @@ public class B_Mush : MonoBehaviour
             walkspeed = 0;
             m_Animator.SetBool("Dead", true);
         }
-       
+        
+        if(col.gameObject.CompareTag("R_Knight"))
+        {
+            walkspeed = 0;
+            m_Animator.SetBool("Attack", true);
+        }
         
         if(col.gameObject.CompareTag("Red_Mush"))
         {
@@ -49,5 +54,10 @@ public class B_Mush : MonoBehaviour
     void Delete()
     {
         Destroy(gameObject);
+    }
+    void endA()
+    {
+        walkspeed = -0.30f;
+        m_Animator.SetBool("Attack", false);
     }
 }
