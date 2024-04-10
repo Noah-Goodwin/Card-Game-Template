@@ -22,13 +22,7 @@ public class Red_Zombie : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (blue.Spawned)
-        {
-            m_Animator.SetBool("Red_Move", true);
-            Red_walkspeed = 1.00f;
-            transform.Translate(Red_walkspeed * Time.deltaTime, 0f, 0f, Space.Self);
-            
-        }
+        
     }
     
 
@@ -55,9 +49,13 @@ public class Red_Zombie : MonoBehaviour
             
             
         }
+<<<<<<< Updated upstream
         
         Debug.Log("Hit");
         if (col.gameObject.CompareTag("B_Zombie"))
+=======
+        if (col.gameObject.CompareTag("B_Knight"))
+>>>>>>> Stashed changes
         {
 
             Red_walkspeed = 0;
@@ -71,5 +69,10 @@ public class Red_Zombie : MonoBehaviour
     void Death()
     {
         Destroy(gameObject);
+    }
+    void endA()
+    {
+        Red_walkspeed = -0.30f;
+        m_Animator.SetBool("Red_Attack", false);
     }
 }
