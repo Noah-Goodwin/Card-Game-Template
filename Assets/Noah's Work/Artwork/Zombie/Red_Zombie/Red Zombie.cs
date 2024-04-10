@@ -47,6 +47,7 @@ public class Red_Zombie : MonoBehaviour
             m_Animator.SetBool("Red_Death", true);
             
             
+            
         }
 
         if (col.gameObject.CompareTag("B_Zombie"))

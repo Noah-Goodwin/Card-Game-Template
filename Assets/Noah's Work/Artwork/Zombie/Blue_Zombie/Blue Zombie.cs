@@ -31,4 +31,29 @@ public class Blue_Zombie : MonoBehaviour
             m_Animator.SetBool("Blue_Attack", true);
         }
     }
+    
+    void OnCollisionEnter2D(Collision2D col)
+    {
+        Debug.Log("Hit");
+        if (col.gameObject.CompareTag("B_Knight"))
+        {
+
+            walkspeed = 0;
+            m_Animator.SetBool("Death", true);
+
+            
+            
+        }
+        
+        Debug.Log("Hit");
+        if (col.gameObject.CompareTag("R_Zombie"))
+        {
+
+            walkspeed = 0;
+            m_Animator.SetBool("Death", true);
+
+            
+        }
+
+    }
 }
