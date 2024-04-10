@@ -7,22 +7,22 @@ using UnityEngine;
 public class Red_Zombie : MonoBehaviour
 {
     Animator m_Animator;
-    public float Red_walkspeed;
-    public SpawnButton blue;
+     float Red_walkspeed;
+    
     
     // Start is called before the first frame update
     void Start()
     {
-        blue = GameObject.FindWithTag("Z_Button").GetComponent<SpawnButton>();
-        Red_walkspeed = 0f;
+        
+        Red_walkspeed = .3f;
         m_Animator = gameObject.GetComponent<Animator>();
-        m_Animator.SetBool("Red_Move", false);
+        
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+        transform.Translate(Red_walkspeed*Time.deltaTime, 0f, 0f, Space.Self);
     }
     
 
@@ -32,7 +32,7 @@ public class Red_Zombie : MonoBehaviour
         {
             Red_walkspeed = 0f;
             m_Animator.SetBool("Red_Attack", true);
-            blue.Spawned = false;
+           
         }
     }
     
@@ -45,21 +45,28 @@ public class Red_Zombie : MonoBehaviour
 
             Red_walkspeed = 0;
             m_Animator.SetBool("Red_Death", true);
-            blue.Spawned = false;
+            
             
         }
-<<<<<<< Updated upstream
-        
-        Debug.Log("Hit");
+
         if (col.gameObject.CompareTag("B_Zombie"))
-=======
-        if (col.gameObject.CompareTag("B_Knight"))
->>>>>>> Stashed changes
+
         {
 
             Red_walkspeed = 0;
-            m_Animator.SetBool("Red_Death", true);
-            blue.Spawned = false;
+            m_Animator.SetBool("Tie", true);
+            
+            
+        }
+        
+
+        if (col.gameObject.CompareTag("B_Mush"))
+
+        {
+
+            Red_walkspeed = 0;
+            m_Animator.SetBool("Red_Attack", true);
+            
             
         }
 
