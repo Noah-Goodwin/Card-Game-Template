@@ -53,6 +53,7 @@ public class Red_Zombie : MonoBehaviour
             m_Animator.SetBool("Red_Death", true);
             blue.Spawned = false;
             
+            
         }
         
         Debug.Log("Hit");
