@@ -14,7 +14,7 @@ public class Red_Zombie : MonoBehaviour
     void Start()
     {
         
-        Red_walkspeed = .3f;
+        Red_walkspeed = 1.3f;
         m_Animator = gameObject.GetComponent<Animator>();
         
     }
@@ -79,7 +79,7 @@ public class Red_Zombie : MonoBehaviour
     }
     void endA()
     {
-        Red_walkspeed = -0.30f;
+        Red_walkspeed = 1.30f;
         m_Animator.SetBool("Red_Attack", false);
     }
 }

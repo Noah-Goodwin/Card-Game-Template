@@ -9,7 +9,7 @@ public class Red_Mush : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        walkspeed = 0.30f;
+        walkspeed = 1.30f;
         m_Animator = gameObject.GetComponent<Animator>();
     }
 
@@ -22,7 +22,10 @@ public class Red_Mush : MonoBehaviour
 
      void OnCollisionEnter2D(Collision2D col)
     {
-        
+        if (col.gameObject.CompareTag("B_Zombie"))
+        {
+            m_Animator.SetBool("Death", true);
+        }
 
         if (col.gameObject.CompareTag("B_Knight"))
         {
@@ -44,7 +47,7 @@ public class Red_Mush : MonoBehaviour
 
      void endA()
      {
-         walkspeed = 0.30f;
+         walkspeed = 1.30f;
          m_Animator.SetBool("MushA", false);
      }
      

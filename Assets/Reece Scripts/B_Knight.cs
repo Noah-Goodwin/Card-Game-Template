@@ -14,7 +14,7 @@ public class B_Knight : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        walkspeed = -0.30f;
+        walkspeed = -1.30f;
         m_Animator = gameObject.GetComponent<Animator>();
     }
 
@@ -68,7 +68,7 @@ public class B_Knight : MonoBehaviour
     }
     void endA()
     {
-        walkspeed = -0.30f;
+        walkspeed = -1.30f;
         m_Animator.SetBool("interact", false);
     }
 }

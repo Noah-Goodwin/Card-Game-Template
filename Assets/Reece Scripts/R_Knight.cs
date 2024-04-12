@@ -9,7 +9,7 @@ public class R_Knight : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        walkspeed = 0.30f;
+        walkspeed = 1.30f;
         m_Animator = gameObject.GetComponent<Animator>();
     }
 
@@ -45,10 +45,22 @@ public class R_Knight : MonoBehaviour
             m_Animator.SetBool("Tie", true);
             
         }
+        if (col.gameObject.CompareTag("B_Zombie"))
+        {
+
+            walkspeed = 0;
+            m_Animator.SetBool("interact", true);
+            
+        }
 
     }
     void Delete()
     {
         Destroy(gameObject);
+    }
+    void endA()
+    {
+        walkspeed = 1.30f;
+        m_Animator.SetBool("interact", false);
     }
 }

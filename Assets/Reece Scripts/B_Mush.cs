@@ -9,7 +9,7 @@ public class B_Mush : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        walkspeed = -0.30f;
+        walkspeed = -1.30f;
         m_Animator = gameObject.GetComponent<Animator>();
     }
 
@@ -57,7 +57,7 @@ public class B_Mush : MonoBehaviour
     }
     void endA()
     {
-        walkspeed = -0.30f;
+        walkspeed = -1.30f;
         m_Animator.SetBool("Attack", false);
     }
 }

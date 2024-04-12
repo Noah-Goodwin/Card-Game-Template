@@ -11,7 +11,7 @@ public class Blue_Zombie : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        walkspeed = -1.00f;
+        walkspeed = -1.30f;
         m_Animator = gameObject.GetComponent<Animator>();
         m_Animator.SetBool("Blue_Move", true);
     }
@@ -35,7 +35,7 @@ public class Blue_Zombie : MonoBehaviour
     void OnCollisionEnter2D(Collision2D col)
     {
         Debug.Log("Hit");
-        if (col.gameObject.CompareTag("B_Knight"))
+        if (col.gameObject.CompareTag("R_Knight"))
         {
 
             walkspeed = 0;
@@ -50,10 +50,30 @@ public class Blue_Zombie : MonoBehaviour
         {
 
             walkspeed = 0;
-            m_Animator.SetBool("Death", true);
+            m_Animator.SetBool("Tie", true);
 
+            
+        }
+        if (col.gameObject.CompareTag("Red_Mush"))
+        {
+
+            walkspeed = 0;
+            m_Animator.SetBool("Blue_Attack", true);
+
+            
             
         }
 
     }
+    void death()
+    {
+        Destroy(gameObject);
+    }
+
+    void endA()
+    {
+        walkspeed = -1.30f;
+        m_Animator.SetBool("Blue_Attack", false);
+    }
+
 }

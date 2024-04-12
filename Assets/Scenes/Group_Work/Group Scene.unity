@@ -269,9 +269,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 11500000, guid: a1e6365f51f614842902e35fbd70a5d2, type: 3}
-        m_TargetAssemblyTypeName: UnityEngine.Object, UnityEngine
-        m_MethodName: 
+      - m_Target: {fileID: 199618549}
+        m_TargetAssemblyTypeName: Cardpick, Assembly-CSharp
+        m_MethodName: Pick
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -946,7 +946,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7131307854047743940, guid: 852ce3dcd8303412cb2c3721d892a117, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -4.45
+      value: -7.61
       objectReference: {fileID: 0}
     - target: {fileID: 7131307854047743940, guid: 852ce3dcd8303412cb2c3721d892a117, type: 3}
       propertyPath: m_LocalPosition.z
