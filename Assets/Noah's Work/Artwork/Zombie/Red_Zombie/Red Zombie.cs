@@ -1,6 +1,7 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using TMPro;
 using Unity.VisualScripting;
 using UnityEngine;
 
@@ -8,15 +9,23 @@ public class Red_Zombie : MonoBehaviour
 {
     Animator m_Animator;
      float Red_walkspeed;
+     public TextMeshProUGUI Redwin;
+     public TextMeshProUGUI Bluewin;
+     public TextMeshProUGUI Tie;
     
     
     // Start is called before the first frame update
     void Start()
     {
         
+<<<<<<< HEAD
         Red_walkspeed = 1.3f;
+=======
+        Red_walkspeed = 1.00f;
+>>>>>>> a35831415f68f358994f8d2d9e63a6f919280697
         m_Animator = gameObject.GetComponent<Animator>();
-        
+
+
     }
 
     // Update is called once per frame
@@ -45,9 +54,9 @@ public class Red_Zombie : MonoBehaviour
 
             Red_walkspeed = 0;
             m_Animator.SetBool("Red_Death", true);
-            
-            
-            
+            Bluewin.text = "BLUE WINS";
+
+
         }
 
         if (col.gameObject.CompareTag("B_Zombie"))
@@ -56,8 +65,9 @@ public class Red_Zombie : MonoBehaviour
 
             Red_walkspeed = 0;
             m_Animator.SetBool("Tie", true);
-            
-            
+            Tie.text = "TIE";
+
+
         }
         
 
@@ -67,8 +77,12 @@ public class Red_Zombie : MonoBehaviour
 
             Red_walkspeed = 0;
             m_Animator.SetBool("Red_Attack", true);
-            
-            
+            Redwin.text = "RED WINS";
+
+
+
+
+
         }
 
     }
@@ -79,7 +93,11 @@ public class Red_Zombie : MonoBehaviour
     }
     void endA()
     {
+<<<<<<< HEAD
         Red_walkspeed = 1.30f;
+=======
+        Red_walkspeed = 1.00f;
+>>>>>>> a35831415f68f358994f8d2d9e63a6f919280697
         m_Animator.SetBool("Red_Attack", false);
     }
 }

@@ -1,11 +1,16 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using TMPro;
 
 public class R_Knight : MonoBehaviour
 {
     Animator m_Animator;
     private float walkspeed;
+    public TextMeshProUGUI Redwin;
+    public TextMeshProUGUI Bluewin;
+    public TextMeshProUGUI Tie;
+    
     // Start is called before the first frame update
     void Start()
     {
@@ -26,6 +31,7 @@ public class R_Knight : MonoBehaviour
         {
             walkspeed = 0;
             m_Animator.SetBool("interact", true);
+            Redwin.text = "RED WINS";
         }
     }
     void OnCollisionEnter2D(Collision2D col)
@@ -36,14 +42,14 @@ public class R_Knight : MonoBehaviour
 
             walkspeed = 0;
             m_Animator.SetBool("Death", true);
-            
+            Bluewin.text = "BLUE WINS";
         }
         if (col.gameObject.CompareTag("B_Knight"))
         {
 
             walkspeed = 0;
             m_Animator.SetBool("Tie", true);
-            
+            Tie.text = "TIE";
         }
         if (col.gameObject.CompareTag("B_Zombie"))
         {
