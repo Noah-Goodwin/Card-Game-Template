@@ -18,15 +18,15 @@ public class Red_Zombie : MonoBehaviour
     void Start()
     {
         
-<<<<<<< HEAD
-<<<<<<< HEAD
+
         Red_walkspeed = 1.3f;
-=======
-        Red_walkspeed = 1.00f;
->>>>>>> a35831415f68f358994f8d2d9e63a6f919280697
-=======
+
+        
+
         Red_walkspeed = 1.30f;
->>>>>>> 108d719fcee92f011fd049b1d6845639d700f5fc
+
+        Red_walkspeed = 1.3f;
+
         m_Animator = gameObject.GetComponent<Animator>();
 
 
